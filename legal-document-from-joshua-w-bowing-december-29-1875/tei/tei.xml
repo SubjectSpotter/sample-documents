@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+xml:lang="EN"
+xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Legal Document from Joshua W. Bowing; December 29, 1875</title>
+        <title type="desc"></title>
+      </title>
+      <author>
+        <persName></persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU220769">
+        <resp>Initial upload of this work&#39;s facsimile images and metadata to FromThePage for editing</resp>
+        <persName>Lindsey Peterson (CWRGM Co-Director)</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU215593">
+        <resp>Administrator of the Civil War &amp; Reconstruction Governors of Mississippi, Main Collection transcription project on FromThePage</resp>
+        <persName>Civil War and Reconstruction Governors of Mississippi</persName>
+      </respStmt>
+
+        <respStmt xml:id="U220769">
+          <persName
+            >
+            Lindsey Peterson (CWRGM Co-Director)
+            </persName>
+            <resp>
+              made 14 edits between
+              <date type="first_edit" when="2023-09-03T00:34:02Z">September  3, 2023</date> and
+              <date type="last_edit" when="2024-03-06T15:23:12Z">March  6, 2024</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U25091195">
+          <persName
+            >
+            Camp H. Stewart
+            </persName>
+            <resp>
+              made 5 edits between
+              <date type="first_edit" when="2023-07-28T21:22:48Z">July 28, 2023</date> and
+              <date type="last_edit" when="2023-07-28T21:27:43Z">July 28, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U32011852">
+          <persName
+            >
+            Rose Doyle
+            </persName>
+            <resp>
+              made 4 edits between
+              <date type="first_edit" when="2023-07-27T03:15:08Z">July 27, 2023</date> and
+              <date type="last_edit" when="2023-07-27T03:41:03Z">July 27, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U231087">
+          <persName
+            >
+            DeeDee Baldwin
+            </persName>
+            <resp>
+              made 3 edits between
+              <date type="first_edit" when="2023-04-27T13:23:19Z">April 27, 2023</date> and
+              <date type="last_edit" when="2023-04-27T13:28:38Z">April 27, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U2">
+          <persName
+            >
+            Ben W. Brumfield
+            </persName>
+            <resp>
+              made 2 edits between
+              <date type="first_edit" when="2024-10-25T13:12:59Z">October 25, 2024</date> and
+              <date type="last_edit" when="2024-10-25T17:38:31Z">October 25, 2024</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U32019810">
+          <persName
+            >
+            Ian Spurgeon
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2024-11-17T19:02:33Z">November 17, 2024</date>.
+            </resp>
+        </respStmt>
+
+
+
+    </editionStmt>
+
+    <publicationStmt>
+    <publisher>Dynamic TEI export from FromThePage (version 22.10)</publisher>
+      <availability>
+        <p></p>
+      </availability>
+      <date when="2024-12-12T16:23:44+00:00">December 12, 2024</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+            <collection>Civil War &amp; Reconstruction Governors of Mississippi, Main Collection</collection>
+        </msIdentifier>
+        <physDesc>
+          <p></p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName></placeName>
+          </origin>
+          <provenance></provenance>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S32080484">
+              <persName>Walton, G. W.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32099743">
+              <persName>Axelson, C.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32079602">
+              <persName>Lewis, W. B.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32099744">
+              <persName>Speed, Oscar</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32089352">
+              <persName>Davenport, G. W.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32067135">
+              <persName>Short, Joseph W.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32079669">
+              <persName>Crosby, Peter, 1844-1884</persName>
+                <idno>https://en.wikipedia.org/wiki/Peter_Crosby_(sheriff)</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002630">African Americans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002631">Veterans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002817">Enslaved/Previously Enslaved</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS32079669P0'>Peter Crosby was an African American sheriff in Mississippi during the Reconstruction era.
+</p>
+
+<p xml:id='OTPS32079669P1'>Born a slave in Clarke County, Mississippi, in 1844, Crosby was liberated during the Civil War and joined the Fifth U.S. Colored Heavy Artillery in Vicksburg in 1864. Following the Civil War, he became active in local political matters, participating in Republican Party meetings, and seeking election for public office, serving as constable of Yazoo City in the late 1860s and then treasurer of Warren County in 1873. In November 1873, Crosby won election for sheriff of Warren County. However, conservative white Democrats contested his electoral victory and on December 2, 1874, a large group of armed men forced him to resign. A few days later, on December 7, 1874, several Black protesters held a gathering in front of the Warren County Courthouse in support of Crosby’s reinstatement as sheriff. They were confronted by several white conservatives, and gunfire soon erupted. The fight was heavily one-sided, with one white man and twenty-five Black men killed in the affair. The incident was referred to by some as the Vicksburg riots, but has largely been recognized as the Vicksburg Massacre.
+</p>
+
+<p xml:id='OTPS32079669P2'>The incident drew attention of federal authorities, and President Ulysses S. Grant sent soldiers to Vicksburg to reinstate order. Federal troops under General Philip Sheridan returned Crosby to the office of sheriff, but not before additional attacks by conservative whites took the lives of as many as three hundred Black Mississippians in January 1875. Once again serving as sheriff, Crosby appointed J. P. Gilmer as a deputy. On June 7, 1875, Gilmer shot Crosby in the head in an apparent assassination attempt. While Crosby survived, he never fully recovered from the wound and was unable to continue his role as sheriff. Gilmer was arrested for the assault, but was never tried or convicted. Crosby died on March 15, 1884. (Wikipedia; <hi rend='italic'>The Clarion-Ledger</hi>, Jackson, MS, June 9, 1870; Trudy Lee Wright, “Peter Crosby [1844-1884],” February 10, 2023, Black Past)
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S32089359">
+              <persName>Bourne, Joshua W.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+        </listPerson>
+
+    </sourceDesc>
+
+  </fileDesc>
+
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+<category xml:id='C32001127'>
+<catDesc>Businesses</catDesc>
+</category>
+<category xml:id='C2787'>
+<catDesc>Events</catDesc>
+<category xml:id='C32001686'>
+<catDesc>Labor &amp; Financial Events</catDesc>
+          <category xml:id='S32077642'>
+            <catDesc>
+              <term>Political Office--Resignation</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/resignation?q=Resignation</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001150'>Political Events</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001686'>Labor &amp; Financial Events</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32077642P0'>"The act of leaving a job or position and making a statement that you are doing this." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001150'>
+<catDesc>Political Events</catDesc>
+          <category xml:id='S95151'>
+            <catDesc>
+              <term>Political Elections</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/election?q=elections</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001150'>Political Events</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD95151P0'>"A time when people vote in order to choose someone for a political or official job." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32075543'>
+            <catDesc>
+              <term>Political Elections--Mississippi</term>
+              <idno>https://www.mshistorynow.mdah.ms.gov/issue/reconstruction-in-mississippi-1865-1876</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001150'>Political Events</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32075543P0'>This subject tag includes references to various and unidentified state and local elections held within Mississippi. During the Civil War, most Mississippians supported secession and the Confederacy and therefore voted in favor of policies and for candidates dedicated to those causes. After the defeat of the Confederacy in 1865, President Andrew Johnson instituted a lenient Reconstruction policy that offered amnesty to individuals who took an oath of loyalty to the United States (with exceptions for certain upper-class southerners). This policy allowed many former Confederates to run for office shortly after the end of the war and pass legislation designed to limit the rights of freed African Americans, known as the Black Codes. Restrictions against black political rights led Republicans in the U.S. Congress to take a firmer hand in Mississippi’s Reconstruction and protect Black rights. Between 1867 and 1876, Republicans backed by federal soldiers struggled to ensure Black Mississippians had equal voting rights and could run for office.
+</p>
+
+<p xml:id='OTPSD32075543P1'>Many white southern conservatives, however, used threats and violence to prevent Black Mississippians and white Republicans from voting, or influence the results of elections. These efforts reached a peak in 1874 under the “Mississippi Plan,” which began with a systematic effort to disenfranchise Black voters in Mississippi and evict African American and Republican office holders. As many as three hundred Black people were killed in Vicksburg in the racial violence. President Ulysses S. Grant sent federal troops to Vicksburg to enforce the law, but soldiers were unable to change the political climate within the state. White Democrats organized under the Mississippi Plan suppressed Black and Republican voters enough to dominate state elections in 1875 by 30,000 votes. Reconstruction ended in 1877 with white conservatives still in command of Mississippi’s state and local politics. (Wikipedia; Jason Phillips, "Reconstruction in Mississippi: 1865–1876," Mississippi History Now)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+<category xml:id='C32001150S32077642'>
+<catDesc>
+<term><rs ref='S32077642'>Political Office--Resignation</rs></term>
+</catDesc>
+</category>
+          <category xml:id='S32084955'>
+            <catDesc>
+              <term>Voting</term>
+              <idno>https://americanhistory.si.edu/democracy-exhibition/machinery-democracy/voting-and-electioneering-1789%E2%80%931899</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001150'>Political Events</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32084955P0'>Voting is the activity of choosing someone or something in an election. The United States Constitution left the states with the responsibility of managing elections, leading to a wide variety of voting practices. Initially, the two most common forms of voting in the United States involved voice vote and paper ballots. Most paper ballots during the early nineteenth century through the Civil War involved “party tickets,” which included the names of candidates of only one party. The voter provided the ballot to election officials, meaning voting was a public display of the voter’s selection. This practice made voters more susceptible to public pressure or intimidation during contentious elections or in communities dominated by one political party. During Reconstruction, some communities began using blank ballots, also known as the “Australian ballot,” which provided more secrecy for voters.
+</p>
+
+<p xml:id='OTPSD32084955P1'>During the Civil War, many northern states began changing voting practices to account for the thousands of men in the Union army and away from home. Before the war, only Pennsylvania allowed soldiers to vote by mail-in or absentee ballots. The election of 1864 was the first time since 1812 that a presidential election occurred during a war. With so many residents on the war front, between 1862 and 1864 twenty northern states passed laws to grant their soldiers the right to vote through mail-in ballots. The issue was contentious, in part because many Democrats argued that Republican officials would tamper with the military votes. Democrats were also more aligned with anti-war sentiment and opposition to emancipation of African Americans. Many Democrats feared that frontline soldiers would boost electoral support for the President Abraham Lincoln’s reelection. Indeed, most Union soldiers voted for Lincoln, helping secure his reelection.
+</p>
+
+<p xml:id='OTPSD32084955P2'>Voting rights changed dramatically in the South after the Civil War. Federal Reconstruction laws prohibited former Confederates from voting until they took a loyalty oath, or, in some cases, appealed to President Andrew Johnson personally. Many ex-Confederates undertook these steps and managed to regain voting rights and run for office shortly after the war. These white officials passed highly discriminatory laws, starting with Mississippi in late 1865, known as the “Black Codes,” which restricted African American rights. Republicans in the U.S. Congress then implemented more oversight in Reconstruction and better protected Black civil rights including the right to vote. This included the passage and ultimate ratification of the Fifteenth Amendment, which prohibited states from denying any person the right to vote based upon race, color, or previous condition of servitude. These protections only covered men, as women were still not allowed to vote in most elections in most states. As a result, African Americans played a large part in southern elections, boosting Republican Party success and leading to African American politicians winning seats in local, state, and national offices. Conservative white voters in the South responded by engaging in voter suppression through violence and intimidation. The “Mississippi Plan” in 1875 was one such effort, which led to a dramatic drop in Republican votes, leading to the Democratic Party takeover of Mississippi’s state legislature.
+</p>
+
+<p xml:id='OTPSD32084955P3'>The end of Reconstruction in 1877 led to a new wave of restrictions against Black voting in the South. Many southern states began implementing poll taxes, literacy tests, and the “grandfather clause” designed to disenfranchise African American voters. Many southern Blacks could not afford the poll taxes or were not literate enough to pass voter reading requirements. The “grandfather clause” prohibited voting for anyone whose grandfather had not been eligible to vote, a policy aimed directly at the descendants of the formerly enslaved. These laws lasted well into the twentieth century. (Cambridge Dictionary, Smithsonian Institute, National Geographic, Wikipedia, National Archives and Records Administration)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C25000149'>
+<catDesc>Military Units</catDesc>
+</category>
+<category xml:id='C2788'>
+<catDesc>Occupations</catDesc>
+<category xml:id='C32001675'>
+<catDesc>Financial Occupations</catDesc>
+          <category xml:id='S91163'>
+            <catDesc>
+              <term>Tax Collectors</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/tax-collector</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001675'>Financial Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD91163P0'>"Someone whose job is to collect taxes for the government. The term is often used to refer to the tax authorities." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001679'>
+<catDesc>Legal Occupations</catDesc>
+          <category xml:id='S63934'>
+            <catDesc>
+              <term>Judges</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/judge</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001679'>Legal Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD63934P0'>"A person who is in charge of a trial in a court and decides how a person who is guilty of a crime should be punished, or who makes decisions on legal matters." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S63172'>
+            <catDesc>
+              <term>Judges. Justices of the Peace</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/justice-of-the-peace</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001679'>Legal Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD63172P0'>"A public officer who judges local and less important legal cases, and performs marriage ceremonies." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32085304'>
+            <catDesc>
+              <term>Law Enforcement</term>
+              <idno>https://dictionary.cambridge.org/dictionary/english/law-enforcement?q=Law+Enforcement</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001679'>Legal Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32085304P0'>"Individuals responsible for enforcing laws in designated areas." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S70145'>
+            <catDesc>
+              <term>Law Enforcement--Constables</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/constable?q=constables</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001679'>Legal Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD70145P0'>"An official in a town or village having some of the responsibilities of a police officer." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S95578'>
+            <catDesc>
+              <term>Law Enforcement--Sheriffs</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/sheriff</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001679'>Legal Occupations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD95578P0'>"In the U.S., an official whose job is to be in charge of performing the orders of the law courts and making certain that the laws are obeyed within a particular county." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001719'>
+<catDesc>Professional Labor</catDesc>
+          <category xml:id='S50807'>
+            <catDesc>
+              <term>Clerks</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/clerk</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001719'>Professional Labor</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD50807P0'>"A person who works in an office, dealing with records or performing general office duties." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2789'>
+<catDesc>Organizations</catDesc>
+          <category xml:id='S70054'>
+            <catDesc>
+              <term>Courts &amp; Judicial Systems--Circuit Courts</term>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2789'>Organizations</ptr></ab>
+              </note>
+            </catDesc>
+          </category>
+<category xml:id='C32001714'>
+<catDesc>Legal Organizations</catDesc>
+          <category xml:id='S63395'>
+            <catDesc>
+              <term>Courts &amp; Judicial Systems</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/court?topic=law-courts</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001714'>Legal Organizations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD63395P0'>"A place where trials and other legal cases happen, or the people present in such a place." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32034443'>
+            <catDesc>
+              <term>Courts &amp; Judicial Systems--Chancery Courts</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/chancery</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001714'>Legal Organizations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32034443P0'>"A court of equity in some US states." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2750'>
+<catDesc>People</catDesc>
+          <category xml:id='S32079669'>
+            <catDesc>
+              <term>Crosby, Peter, 1844-1884</term>
+              <idno>https://en.wikipedia.org/wiki/Peter_Crosby_(sheriff)</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002630'>African Americans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002631'>Veterans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002817'>Enslaved/Previously Enslaved</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32079669P0'>Peter Crosby was an African American sheriff in Mississippi during the Reconstruction era.
+</p>
+
+<p xml:id='OTPSD32079669P1'>Born a slave in Clarke County, Mississippi, in 1844, Crosby was liberated during the Civil War and joined the Fifth U.S. Colored Heavy Artillery in Vicksburg in 1864. Following the Civil War, he became active in local political matters, participating in Republican Party meetings, and seeking election for public office, serving as constable of Yazoo City in the late 1860s and then treasurer of Warren County in 1873. In November 1873, Crosby won election for sheriff of Warren County. However, conservative white Democrats contested his electoral victory and on December 2, 1874, a large group of armed men forced him to resign. A few days later, on December 7, 1874, several Black protesters held a gathering in front of the Warren County Courthouse in support of Crosby’s reinstatement as sheriff. They were confronted by several white conservatives, and gunfire soon erupted. The fight was heavily one-sided, with one white man and twenty-five Black men killed in the affair. The incident was referred to by some as the Vicksburg riots, but has largely been recognized as the Vicksburg Massacre.
+</p>
+
+<p xml:id='OTPSD32079669P2'>The incident drew attention of federal authorities, and President Ulysses S. Grant sent soldiers to Vicksburg to reinstate order. Federal troops under General Philip Sheridan returned Crosby to the office of sheriff, but not before additional attacks by conservative whites took the lives of as many as three hundred Black Mississippians in January 1875. Once again serving as sheriff, Crosby appointed J. P. Gilmer as a deputy. On June 7, 1875, Gilmer shot Crosby in the head in an apparent assassination attempt. While Crosby survived, he never fully recovered from the wound and was unable to continue his role as sheriff. Gilmer was arrested for the assault, but was never tried or convicted. Crosby died on March 15, 1884. (Wikipedia; <hi rend='italic'>The Clarion-Ledger</hi>, Jackson, MS, June 9, 1870; Trudy Lee Wright, “Peter Crosby [1844-1884],” February 10, 2023, Black Past)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+<category xml:id='C32002630'>
+<catDesc>African Americans</catDesc>
+<category xml:id='C32002630S32079669'>
+<catDesc>
+<term><rs ref='S32079669'>Crosby, Peter, 1844-1884</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002817'>
+<catDesc>Enslaved/Previously Enslaved</catDesc>
+<category xml:id='C32002817S32079669'>
+<catDesc>
+<term><rs ref='S32079669'>Crosby, Peter, 1844-1884</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002631'>
+<catDesc>Veterans</catDesc>
+<category xml:id='C32002631S32079669'>
+<catDesc>
+<term><rs ref='S32079669'>Crosby, Peter, 1844-1884</rs></term>
+</catDesc>
+</category>
+</category>
+</category>
+<category xml:id='C2751'>
+<catDesc>Places</catDesc>
+<category xml:id='C32001861'>
+<catDesc>Counties &amp; Parishes</catDesc>
+          <category xml:id='S62975'>
+            <catDesc>
+              <term>Mississippi--Warren County</term>
+              <idno>https://mississippiencyclopedia.org/entries/warren-county/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001861'>Counties &amp; Parishes</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.36, -90.85</geo>
+              </note>
+              <gloss><p xml:id='OTPSD62975P0'>Located in southwest Mississippi, Warren County was established December 22, 1809. (Mississippi Encyclopedia; Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001862'>
+<catDesc>Towns &amp; Cities</catDesc>
+          <category xml:id='S51788'>
+            <catDesc>
+              <term>Mississippi--Warren County. Vicksburg</term>
+              <idno>https://archive.org/details/mississippicomp00rowlgoog/page/858/mode/2up</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.33611, -90.87528</geo>
+              </note>
+              <gloss><p xml:id='OTPSD51788P0'>Located in Warren County, Mississippi, Vicksburg was founded under the name Fort Nogales as early as 1790 in what was then unincorporated territory. In 1798, upon creation of Mississippi Territory, it was renamed Walnut Hills. On April 1, 1799, Walnut Hills became part of the newly created Pickering County (later renamed Jefferson County on January 10, 1802), until the creation of Claiborne County on January 26, 1802. It then became part of its current county of Warren on December 21, 1809. Upon its incorporation on January 29th, 1825, it was renamed Vicksburg. Vicksburg became the county seat in 1836 and remains today. (Rowland, <hi rend='italic'>Mississippi</hi>, 858; Wikipedia; Britannica; Atlas of Historical County Boundaries)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2790'>
+<catDesc>Social Identifiers</catDesc>
+</category>
+</taxonomy>
+      </classDecl>
+    </encodingDesc>
+
+
+  <profileDesc>
+
+
+
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+  </profileDesc>
+    <xenoData>
+      <iiifMetadata>
+            <element source="imported">
+              <label>Collection</label>
+              <value>Ames Series 803</value>
+            </element>
+            <element source="imported">
+              <label>Contributors</label>
+              <value>Funding for this project provided by the National Historical Publications and Records Commission of the National Archives.</value>
+            </element>
+            <element source="imported">
+              <label>Coverage (time period)</label>
+              <value>1875</value>
+            </element>
+            <element source="imported">
+              <label>Creator</label>
+              <value>Bowing, Joshua W.</value>
+            </element>
+            <element source="imported">
+              <label>Date</label>
+              <value>1875-12-29</value>
+            </element>
+            <element source="imported">
+              <label>Description</label>
+              <value>From the Mississippi Department of Archives and History Governor Ames Collection. Legal Document from Joshua W. Bowing in Vicksburg, Mississippi, containing an excerpt from the minutes of the Warren County, Mississippi, board of supervisors regarding special election for the sheriff and tax collector.</value>
+            </element>
+            <element source="imported">
+              <label>Digital repository</label>
+              <value>Mississippi Digital Library.</value>
+            </element>
+            <element source="imported">
+              <label>Digital collection</label>
+              <value>Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Disclaimer</label>
+              <value>Use of materials from this collection beyond the exceptions provided for in the Fair Use and Educational Use clauses of the U.S. Copyright Law may violate federal law. Permission to publish or reproduce is required.</value>
+            </element>
+            <element source="imported">
+              <label>Format</label>
+              <value>Digital reproduction of a 8.0&quot; x 13.0&quot; 3-page document.</value>
+            </element>
+            <element source="imported">
+              <label>Geographic location</label>
+              <value>Vicksburg (Miss.)</value>
+            </element>
+            <element source="imported">
+              <label>Identifier</label>
+              <value>mdah_803-998-10-07</value>
+            </element>
+            <element source="imported">
+              <label>Language</label>
+              <value>English</value>
+            </element>
+            <element source="imported">
+              <label>Mississippi county</label>
+              <value>Warren County (Miss.)</value>
+            </element>
+            <element source="imported">
+              <label>Notes</label>
+              <value>This item is part of the Civil War and Reconstruction Governors of Mississippi Project; https://cwrgm.org/</value>
+            </element>
+            <element source="imported">
+              <label>Publisher</label>
+              <value>Mississippi Department of Archives and History. (electronic version); Mississippi Digital Library. (electronic version)</value>
+            </element>
+            <element source="imported">
+              <label>Record created by</label>
+              <value>Britany Castilaw; Sarah West; Dalton Wood</value>
+            </element>
+            <element source="imported">
+              <label>Contributing institution</label>
+              <value>Item housed at Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Rights</label>
+              <value>NO COPYRIGHT - UNITED STATES; http://rightsstatements.org/vocab/NoC-US/1.0/</value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>Box 998, Folder 10</value>
+            </element>
+            <element source="imported">
+              <label>Subject</label>
+              <value>Ames, Adelbert, 1835-1933; Minutes (Records); Mississippi. Governor; Sheriffs; Tax collection</value>
+            </element>
+            <element source="imported">
+              <label>Title</label>
+              <value>Legal Document from Joshua W. Bowing; December 29, 1875</value>
+            </element>
+            <element source="imported">
+              <label>Resource type</label>
+              <value>Text</value>
+            </element>
+            <element source="imported">
+              <label>Repository</label>
+              <value></value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>&lt;span&gt;From: &lt;a href=&quot;https://cdm17313.contentdm.oclc.org/digital/collection/mdah/id/33435&quot;&gt;Legal Document from Joshua W. Bowing; December 29, 1875&lt;/a&gt;&lt;/span&gt;</value>
+            </element>
+      </iiifMetadata>
+    </xenoData>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG31" who="U32019810" when="2024-11-17T19:02:33Z" target="#P33069295">
+          Version 8 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG30" who="U2" when="2024-10-25T17:38:31Z" target="#P33069295">
+          Version 7 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG29" who="U2" when="2024-10-25T13:12:59Z" target="#P33069294">
+          Version 18 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG28" who="U220769" when="2024-03-06T15:23:12Z" target="#P33069294">
+          Version 17 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG27" who="U220769" when="2024-03-06T15:17:58Z" target="#P33069295">
+          Version 6 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG26" who="U220769" when="2023-11-02T04:33:54Z" target="#P33069294">
+          Version 16 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG25" who="U220769" when="2023-11-02T03:52:43Z" target="#P33069294">
+          Version 15 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG24" who="U220769" when="2023-11-02T02:41:20Z" target="#P33069294">
+          Version 14 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG23" who="U220769" when="2023-11-01T13:52:34Z" target="#P33069294">
+          Version 13 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG22" who="U220769" when="2023-10-30T22:39:48Z" target="#P33069294">
+          Version 12 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG21" who="U220769" when="2023-10-30T22:39:47Z" target="#P33069294">
+          Version 11 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG20" who="U220769" when="2023-10-30T22:39:46Z" target="#P33069294">
+          Version 10 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG19" who="U220769" when="2023-10-30T22:31:28Z" target="#P33069294">
+          Version 9 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG18" who="U220769" when="2023-10-30T22:27:36Z" target="#P33069294">
+          Version 8 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG17" who="U220769" when="2023-10-30T22:25:20Z" target="#P33069294">
+          Version 7 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG16" who="U220769" when="2023-09-03T00:42:23Z" target="#P33069294">
+          Version 6 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG15" who="U220769" when="2023-09-03T00:34:02Z" target="#P33069294">
+          Version 5 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG14" who="U25091195" when="2023-07-28T21:27:43Z" target="#P33069296">
+          Version 3 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG13" who="U25091195" when="2023-07-28T21:26:18Z" target="#P33069295">
+          Version 5 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG12" who="U25091195" when="2023-07-28T21:24:59Z" target="#P33069295">
+          Version 4 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG11" who="U25091195" when="2023-07-28T21:22:59Z" target="#P33069294">
+          Version 4 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG10" who="U25091195" when="2023-07-28T21:22:48Z" target="#P33069294">
+          Version 3 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG9" who="U32011852" when="2023-07-27T03:41:03Z" target="#P33069296">
+          Version 2 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG8" who="U32011852" when="2023-07-27T03:40:44Z" target="#P33069295">
+          Version 3 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG7" who="U32011852" when="2023-07-27T03:39:48Z" target="#P33069295">
+          Version 2 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG6" who="U32011852" when="2023-07-27T03:15:08Z" target="#P33069294">
+          Version 2 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U231087" when="2023-04-27T13:28:38Z" target="#P33069296">
+          Version 1 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG4" who="U231087" when="2023-04-27T13:26:44Z" target="#P33069295">
+          Version 1 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG3" who="U231087" when="2023-04-27T13:23:19Z" target="#P33069294">
+          Version 1 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG2" who="U220769" when="2023-04-26T00:04:11Z" target="#P33069296">
+          Version 0 of page "Page 3":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG1" who="U220769" when="2023-04-26T00:04:02Z" target="#P33069295">
+          Version 0 of page "Page 2":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U220769" when="2023-04-26T00:03:54Z" target="#P33069294">
+          Version 0 of page "Page 1":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+        <pb xml:id="F33069294" n="1" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:33432/full/full/0/default.jpg"/>
+        <div xml:id="OTP33069294">
+        <fw type="pageNum">Page 1</fw>
+          <p corresp='TTP33069294P0' xml:id='OTP33069294P0'>At a Special meeting of the Board of Super-visors of Warren County Mississippi, held at the Court House thereof in the <rs ref='#S51788'>City of Vicksburg</rs>, Tuesday <hi rend='underline'>December 29<add place='above'>th</add> 1875</hi> pursuant to Notice Given
+</p>
+
+<p corresp='TTP33069294P1' xml:id='OTP33069294P1'>Present
+</p>
+
+<p corresp='TTP33069294P2' xml:id='OTP33069294P2'>Hon <rs ref='#S32080484'>G W Walton</rs> Pres<add place='above'>t</add><lb/>
+<rs ref='#S32099743'>C. Axelson</rs> member<lb/>
+<rs ref='#S32079602'>W B Lewis</rs> <add place='above'>,,</add><lb/>
+<rs ref='#S32099744'>Oscar Speed</rs> <add place='above'>,,</add><lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33069294P3' xml:id='OTP33069294P3'><rs ref='#S32089352'>G W Davenport</rs> <rs ref='#S50807'>clerk</rs>
+</p>
+
+<p corresp='TTP33069294P4' xml:id='OTP33069294P4'>Among other proceedings had and determined by said Board was the following Order, to wit:
+</p>
+
+<p corresp='TTP33069294P5' xml:id='OTP33069294P5'>It is Ordered by the Board of Supervisors of Warren County in said State, that the several orders hereto-fore made by said Board, to wit, on the 9<add place='above'>th</add> and 10<add place='above'>th</add> days of the present month requiring a <rs ref='#S32075543'>Special Election</rs> to be held in said County at the several prescints and <rs ref='#S32084955'>vo-ting</rs> places thereof, on the 31<add place='above'>st</add> day of this present month for the Election of a <rs ref='#S95578'>Sheriff</rs> and <rs ref='#S91163'>Tax Collector</rs> and a Clerk of the <rs ref='#S70054'>Cir-cuit Court</rs> for said County, and also for <rs ref='#S63172'>Jus-tices of the Peace</rs> for Districts number one and number four and for two <rs ref='#S70145'>constables</rs> in District number Five, be, and said 
+</p>
+
+
+        </div>
+        <pb xml:id="F33069295" n="2" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:33433/full/full/0/default.jpg"/>
+        <div xml:id="OTP33069295">
+        <fw type="pageNum">Page 2</fw>
+          <p corresp='TTP33069295P0' xml:id='OTP33069295P0'>several orders are hereby set aside and held for naught And it further appearing to the satis-faction of said Board of Supervisors, that <rs ref='#S32067135'>Joseph W Short</rs> claims to be in possession of said Office of Clerk of the Circuit Court, and exercising the duties thereof under Color of title to the same, And that <rs ref='#S32079669'>Peter Crosby</rs> in like manner claims to be legally in possession of said Office of Sheriff and Tax Collector, and has not <rs ref='#S32077642'>re-signed</rs>, nor intended to resign the same but that his alleged resignation was signed under duress and through fear and against his free will:
+</p>
+
+<p corresp='TTP33069295P1' xml:id='OTP33069295P1'>It is further ordered that all orders hereto-fore made made by said Board reciting or re-cognizing ^any vacancy^ in either of said offices of Sheriff and Tax Collector and Clerk of the Circuit Court of said County be and the same is hereby cancelled set aside and held for naught
+</p>
+
+<p corresp='TTP33069295P2' xml:id='OTP33069295P2'>And it is further ordered that a Cer-tified copy of this order ^be^ served upon the sever-al Registrars of this County
+</p>
+
+<p corresp='TTP33069295P3' xml:id='OTP33069295P3'>State of Mississippi<lb/>
+County of Warren<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33069295P4' xml:id='OTP33069295P4'>I <rs ref='#S32089359'>Joshua W Bourne</rs> Clerk of the <rs ref='#S32034443'>Chancery Court</rs> of said County do hereby Certify that the foregoing contains a true and correct copy of an order of the Board of Super- 
+</p>
+
+
+        </div>
+        <pb xml:id="F33069296" n="3" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:33434/full/full/0/default.jpg"/>
+        <div xml:id="OTP33069296">
+        <fw type="pageNum">Page 3</fw>
+          <p corresp='TTP33069296P0' xml:id='OTP33069296P0'>-visors of said County made the 29<add place='above'>th</add> day of December A D 1875, as the same appears of record in my said office, on pages 332 &amp; 333 in Minute Book of said Board
+</p>
+
+<p corresp='TTP33069296P1' xml:id='OTP33069296P1'>[seal] BOARD OF SUPERVISORS * WARREN COUNTY, MISS. * [/seal]
+</p>
+
+<p corresp='TTP33069296P2' xml:id='OTP33069296P2'>Witness my hand and seal of said Court this 21<add place='above'>st</add> day of March A. D. 1876
+</p>
+
+<p corresp='TTP33069296P3' xml:id='OTP33069296P3'>Joshua W. Bourne<lb/>
+clk of the B<add place='above'>d</add> of Supervisors<lb/>
+Warren County
+</p>
+
+<p corresp='TTP33069296P4' xml:id='OTP33069296P4'>Bd of Supervisors<lb/>
+Warren County Miss<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33069296P5' xml:id='OTP33069296P5'>Extract from proceedings Dec. 29, 1874.<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33069296P6' xml:id='OTP33069296P6'>Order setting aside Election of Dec 31, 1875
+</p>
+
+
+            <note resp="#U231087">https://www.findagrave.com/memorial/240466711/joshua-w-bourne</note>
+        </div>
+  </body>
+</text>
+</TEI>

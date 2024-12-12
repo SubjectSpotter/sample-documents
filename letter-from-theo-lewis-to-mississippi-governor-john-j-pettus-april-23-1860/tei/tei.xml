@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+xml:lang="EN"
+xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Letter from Theo Lewis to Mississippi Governor John J. Pettus; April 23, 1860</title>
+        <title type="desc"></title>
+      </title>
+      <author>
+        <persName></persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU215567">
+        <resp>Initial upload of this work&#39;s facsimile images and metadata to FromThePage for editing</resp>
+        <persName>Steph Walters</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU215593">
+        <resp>Administrator of the Civil War &amp; Reconstruction Governors of Mississippi, Main Collection transcription project on FromThePage</resp>
+        <persName>Civil War and Reconstruction Governors of Mississippi</persName>
+      </respStmt>
+
+        <respStmt xml:id="U220769">
+          <persName
+            >
+            Lindsey Peterson (CWRGM Co-Director)
+            </persName>
+            <resp>
+              made 13 edits between
+              <date type="first_edit" when="2020-08-25T18:12:47Z">August 25, 2020</date> and
+              <date type="last_edit" when="2023-03-19T20:15:16Z">March 19, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U215567">
+          <persName
+            >
+            Steph Walters
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2020-08-27T16:38:34Z">August 27, 2020</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U25091195">
+          <persName
+            >
+            Camp H. Stewart
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2023-03-31T00:32:26Z">March 31, 2023</date>.
+            </resp>
+        </respStmt>
+
+
+
+    </editionStmt>
+
+    <publicationStmt>
+    <publisher>Dynamic TEI export from FromThePage (version 22.10)</publisher>
+      <availability>
+        <p></p>
+      </availability>
+      <date when="2024-12-12T16:24:52+00:00">December 12, 2024</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+            <collection>Civil War &amp; Reconstruction Governors of Mississippi, Main Collection</collection>
+        </msIdentifier>
+        <physDesc>
+          <p></p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName></placeName>
+          </origin>
+          <provenance></provenance>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S63111">
+              <persName>Pettus, John Jones, 1813-1867</persName>
+                <idno>https://en.wikipedia.org/wiki/John_J._Pettus</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002631">Veterans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002895">Widowers</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002983">Men</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS63111P0'>John Jones Pettus was Mississippi's governor during the first three years of the Civil War.  Born in Wilson County, Tennessee, on October 9, 1813, Pettus moved to Limestone County, Alabama, as a child. In 1835, he  moved to Mississippi and eventually began a law practice in Scooba, Mississippi. He married Permelia Winston in the 1840s. She passed away in 1857, and in 1861 Pettus married Susan Hewell.
+</p>
+
+<p xml:id='OTPS63111P1'>Pettus began pursuing a political career in the mid-1840s, first serving as a state representative for Kemper County. He won a state Senate election in 1848 and by 1853 had risen to president of the Mississippi Senate. Then, in January 1854, Governor Henry S. Foote resigned in protest before Governor-elect John J. McRae was inaugurated. Pettus’ position in the Senate placed him next in line to fill the governor’s vacancy, and he was sworn in as Mississippi’s interim executive on January 7, 1854. He served in that role for only three days, before McRae was inaugurated on January 10.
+</p>
+
+<p xml:id='OTPS63111P2'>Pettus won the governor’s election in 1859. By that time, he had become a notable secessionist. He advocated for the creation of an independent Confederacy dedicated to preserving slavery. When Abraham Lincoln was elected president in 1860, Pettus called forth a special legislative session in Mississippi and pressed state representatives to hold a secession convention. His efforts succeeded, as such convention assembled in January 1861 and voted in support of secession, declaring the State of Mississippi out of the Union. Pettus won reelection for governor in 1861 and served until his term ended in 1863. Mississippi’s Constitution had a two-term limit for the governor’s office, leaving Pettus unable to run again. He took a commission as a colonel in the Mississippi State Troops and served until the end of the war. Shortly thereafter, Pettus moved to Arkansas. He applied for a presidential pardon according to President Andrew Johnson’s Reconstruction policies, but was denied three times. Pettus died of pneumonia on January 25, 1867.  He is buried in Flat Bayou Cemetery, Jefferson County, Arkansas. (Wikipedia; FindaGrave)
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S63362">
+              <persName>H. R. W. Hill</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S63363">
+              <persName>Butler, B. J.</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S63364">
+              <persName>Lewis, Theodore</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+        </listPerson>
+
+    </sourceDesc>
+
+  </fileDesc>
+
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+<category xml:id='C32001127'>
+<catDesc>Businesses</catDesc>
+</category>
+<category xml:id='C2787'>
+<catDesc>Events</catDesc>
+</category>
+<category xml:id='C25000149'>
+<catDesc>Military Units</catDesc>
+</category>
+<category xml:id='C2788'>
+<catDesc>Occupations</catDesc>
+</category>
+<category xml:id='C2789'>
+<catDesc>Organizations</catDesc>
+<category xml:id='C32001713'>
+<catDesc>C.S.A. Federal Government</catDesc>
+          <category xml:id='S99586'>
+            <catDesc>
+              <term>Confederate States of America--War Department</term>
+              <idno>https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t00z8036q&amp;view=1up&amp;seq=9&amp;skin=2021</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001713'>C.S.A. Federal Government</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001716'>Military Organizations</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.3675, -86.3</geo>
+              </note>
+              <gloss><p xml:id='OTPSD99586P0'>Operating nationally, the Provisional Confederate Congress established the War Department by an act on February 21, 1861, in Montgomery, Alabama. The department was led by the Secretary of War, appointed by the President with the advice and consent of the Senate. It was initially led by LeRoy Pope Walker from February 25–September 16, 1861 and later led by Judah P. Benjamin (September 17, 1861–March 24, 1862), George W. Randolph (March 24–November 15, 1862), James Seddon (November 21, 1862–February 5, 1865), and Maj. Gen. John C. Breckinridge (February 6–May 10, 1865). The War Department was responsible for the administration of the Confederate Army and managed all matters pertaining to American Indian tribes within the boundaries of the Confederate States. (<hi rend='italic'>Acts and Resolutions of the First Session of the Provisional Congress of the Confederate States</hi>, 1861 Public Laws, S1, 46; Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S25013536'>
+            <catDesc>
+              <term>Confederate States of America--War Department. Ordnance Department</term>
+              <idno>https://www.essentialcivilwarcurriculum.com/civil-war-ordnance-bureaus.html</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001713'>C.S.A. Federal Government</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001716'>Military Organizations</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>37.53333, -77.46667</geo>
+              </note>
+              <gloss><p xml:id='OTPSD25013536P0'>The Confederate Ordnance Bureau was the office responsible for acquiring ammunition and weapons for the Confederate military. Technically a branch of the Corps of Artillery, the Ordnance Bureau operated independently and was commanded by Major Josiah Gorgas, who had resigned from the United States Ordnance Department at the start of the Civil War. Gorgas estimated that the Confederacy had fewer than 160,000 small arms and only 429 cannons (375 of which were in fortifications around Charleston) in early 1861. To increase the number of weapons and ammunition, the Ordnance Bureau relied upon three sources: European imports, domestic manufacturing, and battlefield captures. The bureau also labored to provide weapons and ammunition to the field armies through railroad and wagon train transportation routes. Through these efforts, and despite the Union blockade and limited domestic resources, the Ordnance Bureau imported around 380,000 foreign small arms, produced around 10,000 firearms within the Confederacy, and captured enough Union weapons to arm the Confederate military throughout the war. The Confederate army never suffered a battlefield defeat due to the lack of weapons or ammunition. (Frank E. Vandiver, “Makeshifts of Confederate Ordnance,” <hi rend='italic'>The Journal of Southern History</hi>, 180–193; Philip Leigh, “Civil War Ordnances Bureaus,” Essential Civil War Curriculum) 
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001716'>
+<catDesc>Military Organizations</catDesc>
+          <category xml:id='S55257'>
+            <catDesc>
+              <term>Armories</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/armory?q=armories</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001716'>Military Organizations</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD55257P0'>Armories (sometimes also called arsenals) are places "where weapons and other military equipment are stored." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+<category xml:id='C32001716S99586'>
+<catDesc>
+<term><rs ref='S99586'>Confederate States of America--War Department</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32001716S25013536'>
+<catDesc>
+<term><rs ref='S25013536'>Confederate States of America--War Department. Ordnance Department</rs></term>
+</catDesc>
+</category>
+</category>
+</category>
+<category xml:id='C2750'>
+<catDesc>People</catDesc>
+          <category xml:id='S63111'>
+            <catDesc>
+              <term>Pettus, John Jones, 1813-1867</term>
+              <idno>https://en.wikipedia.org/wiki/John_J._Pettus</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002631'>Veterans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002895'>Widowers</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002983'>Men</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD63111P0'>John Jones Pettus was Mississippi's governor during the first three years of the Civil War.  Born in Wilson County, Tennessee, on October 9, 1813, Pettus moved to Limestone County, Alabama, as a child. In 1835, he  moved to Mississippi and eventually began a law practice in Scooba, Mississippi. He married Permelia Winston in the 1840s. She passed away in 1857, and in 1861 Pettus married Susan Hewell.
+</p>
+
+<p xml:id='OTPSD63111P1'>Pettus began pursuing a political career in the mid-1840s, first serving as a state representative for Kemper County. He won a state Senate election in 1848 and by 1853 had risen to president of the Mississippi Senate. Then, in January 1854, Governor Henry S. Foote resigned in protest before Governor-elect John J. McRae was inaugurated. Pettus’ position in the Senate placed him next in line to fill the governor’s vacancy, and he was sworn in as Mississippi’s interim executive on January 7, 1854. He served in that role for only three days, before McRae was inaugurated on January 10.
+</p>
+
+<p xml:id='OTPSD63111P2'>Pettus won the governor’s election in 1859. By that time, he had become a notable secessionist. He advocated for the creation of an independent Confederacy dedicated to preserving slavery. When Abraham Lincoln was elected president in 1860, Pettus called forth a special legislative session in Mississippi and pressed state representatives to hold a secession convention. His efforts succeeded, as such convention assembled in January 1861 and voted in support of secession, declaring the State of Mississippi out of the Union. Pettus won reelection for governor in 1861 and served until his term ended in 1863. Mississippi’s Constitution had a two-term limit for the governor’s office, leaving Pettus unable to run again. He took a commission as a colonel in the Mississippi State Troops and served until the end of the war. Shortly thereafter, Pettus moved to Arkansas. He applied for a presidential pardon according to President Andrew Johnson’s Reconstruction policies, but was denied three times. Pettus died of pneumonia on January 25, 1867.  He is buried in Flat Bayou Cemetery, Jefferson County, Arkansas. (Wikipedia; FindaGrave)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+<category xml:id='C32002983'>
+<catDesc>Men</catDesc>
+<category xml:id='C32002983S63111'>
+<catDesc>
+<term><rs ref='S63111'>Pettus, John Jones, 1813-1867</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002631'>
+<catDesc>Veterans</catDesc>
+<category xml:id='C32002631S63111'>
+<catDesc>
+<term><rs ref='S63111'>Pettus, John Jones, 1813-1867</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002895'>
+<catDesc>Widowers</catDesc>
+<category xml:id='C32002895S63111'>
+<catDesc>
+<term><rs ref='S63111'>Pettus, John Jones, 1813-1867</rs></term>
+</catDesc>
+</category>
+</category>
+</category>
+<category xml:id='C2751'>
+<catDesc>Places</catDesc>
+<category xml:id='C32001861'>
+<catDesc>Counties &amp; Parishes</catDesc>
+          <category xml:id='S32081534'>
+            <catDesc>
+              <term>Louisiana--East Baton Rouge Parish</term>
+              <idno>https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001861'>Counties &amp; Parishes</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>30.54, -91.09</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32081534P0'>Located in Louisiana, East Baton Rouge Parish, created from non-parish area within Feliciana County, was founded in 1812 and Baton Rouge serves as the parish seat. (Wikipedia; Atlas of Historical County Boundaries)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S62975'>
+            <catDesc>
+              <term>Mississippi--Warren County</term>
+              <idno>https://mississippiencyclopedia.org/entries/warren-county/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001861'>Counties &amp; Parishes</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.36, -90.85</geo>
+              </note>
+              <gloss><p xml:id='OTPSD62975P0'>Located in southwest Mississippi, Warren County was established December 22, 1809. (Mississippi Encyclopedia; Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001862'>
+<catDesc>Towns &amp; Cities</catDesc>
+          <category xml:id='S63360'>
+            <catDesc>
+              <term>Louisiana--East Baton Rouge Parish. Baton Rouge</term>
+              <idno>https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana </idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>30.4475, -91.17861</geo>
+              </note>
+              <gloss><p xml:id='OTPSD63360P0'>Located in East Baton Rouge Parish, Baton Rouge was founded as early as 1699 and serves as the parish seat. Baton Rouge became the capital of Louisiana in 1846. (Wikipedia; Britannica)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S51788'>
+            <catDesc>
+              <term>Mississippi--Warren County. Vicksburg</term>
+              <idno>https://archive.org/details/mississippicomp00rowlgoog/page/858/mode/2up</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.33611, -90.87528</geo>
+              </note>
+              <gloss><p xml:id='OTPSD51788P0'>Located in Warren County, Mississippi, Vicksburg was founded under the name Fort Nogales as early as 1790 in what was then unincorporated territory. In 1798, upon creation of Mississippi Territory, it was renamed Walnut Hills. On April 1, 1799, Walnut Hills became part of the newly created Pickering County (later renamed Jefferson County on January 10, 1802), until the creation of Claiborne County on January 26, 1802. It then became part of its current county of Warren on December 21, 1809. Upon its incorporation on January 29th, 1825, it was renamed Vicksburg. Vicksburg became the county seat in 1836 and remains today. (Rowland, <hi rend='italic'>Mississippi</hi>, 858; Wikipedia; Britannica; Atlas of Historical County Boundaries)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001860'>
+<catDesc>U.S. States</catDesc>
+          <category xml:id='S63020'>
+            <catDesc>
+              <term>Louisiana</term>
+              <idno>https://www.britannica.com/place/Louisiana-state</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001860'>U.S. States</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>31.0, -92.0</geo>
+              </note>
+              <gloss><p xml:id='OTPSD63020P0'>The Territory of Louisiana was established on July 4, 1805. Admitted as the 18th state, Louisiana achieved statehood on April 30, 1812. (Britannica; Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2790'>
+<catDesc>Social Identifiers</catDesc>
+</category>
+</taxonomy>
+      </classDecl>
+    </encodingDesc>
+
+
+  <profileDesc>
+
+
+
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+  </profileDesc>
+    <xenoData>
+      <iiifMetadata>
+            <element source="imported">
+              <label>Collection</label>
+              <value>Pettus Series 757 Governor Pettus Collection.</value>
+            </element>
+            <element source="imported">
+              <label>Contributors</label>
+              <value>Funding for this project provided by The Dale Center for Study of War and Society; Funding for this project provided by the Watson-Brown Foundation.</value>
+            </element>
+            <element source="imported">
+              <label>Coverage (time period)</label>
+              <value>1860</value>
+            </element>
+            <element source="imported">
+              <label>Creator</label>
+              <value>Lewis, Theo.</value>
+            </element>
+            <element source="imported">
+              <label>Date</label>
+              <value>1860-04-23</value>
+            </element>
+            <element source="imported">
+              <label>Description</label>
+              <value>From the Mississippi Department of Archives and History Governor Pettus Collection. Letter from Theo Lewis at the Baton Rouge, Louisiana, arsenal to Mississippi Governor John J. Pettus informing the governor of the shipment of arms and ordinance to Mississippi.</value>
+            </element>
+            <element source="imported">
+              <label>Digital repository</label>
+              <value>Mississippi Digital Library.</value>
+            </element>
+            <element source="imported">
+              <label>Digital collection</label>
+              <value>Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Disclaimer</label>
+              <value>Use of materials from this collection beyond the exceptions provided for in the Fair Use and Educational Use clauses of the U.S. Copyright Law may violate federal law. Permission to publish or reproduce is required.</value>
+            </element>
+            <element source="imported">
+              <label>Format</label>
+              <value>Digital reproduction of a 8&quot; x 10&quot; letter.</value>
+            </element>
+            <element source="imported">
+              <label>Geographic location</label>
+              <value>Baton Rouge (La.); Mississippi</value>
+            </element>
+            <element source="imported">
+              <label>Identifier</label>
+              <value>mdah_757-930-05-14</value>
+            </element>
+            <element source="imported">
+              <label>Language</label>
+              <value>English</value>
+            </element>
+            <element source="imported">
+              <label>Notes</label>
+              <value>This item is part of the Civil War and Reconstruction Governors of Mississippi Project.; https://cwrgm.org/</value>
+            </element>
+            <element source="imported">
+              <label>Publisher</label>
+              <value>Mississippi Department of Archives and History. (electronic version); Mississippi Digital Library. (electronic version)</value>
+            </element>
+            <element source="imported">
+              <label>Record created by</label>
+              <value>Billy Loper; Miranda Williamson; Austin Justice</value>
+            </element>
+            <element source="imported">
+              <label>Contributing institution</label>
+              <value>Item housed at Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Rights</label>
+              <value>NO COPYRIGHT - UNITED STATES; http://rightsstatements.org/vocab/NoC-US/1.0/</value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>Box 930, Folder 5</value>
+            </element>
+            <element source="imported">
+              <label>Subject</label>
+              <value>Firearms.; Mississippi. Governor; Mississippi. Militia; Ordnance.; Pettus, John Jones, 1813-1867</value>
+            </element>
+            <element source="imported">
+              <label>Title</label>
+              <value>Letter from Theo Lewis to Mississippi Governor John J. Pettus; April 23, 1860</value>
+            </element>
+            <element source="imported">
+              <label>Resource type</label>
+              <value>Text</value>
+            </element>
+            <element source="imported">
+              <label>Repository</label>
+              <value></value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>&lt;span&gt;From: &lt;a href=&quot;https://cdm17313.contentdm.oclc.org/digital/collection/mdah/id/576&quot;&gt;Letter from Theo Lewis to Mississippi Governor John J. Pettus; April 23, 1860&lt;/a&gt;&lt;/span&gt;</value>
+            </element>
+      </iiifMetadata>
+    </xenoData>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG18" who="U25091195" when="2023-03-31T00:32:26Z" target="#P1413542">
+          Version 5 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG17" who="U220769" when="2023-03-19T20:15:16Z" target="#P1413541">
+          Version 12 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG16" who="U220769" when="2023-03-19T00:17:51Z" target="#P1413541">
+          Version 11 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG15" who="U220769" when="2023-03-18T21:35:17Z" target="#P1413541">
+          Version 10 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG14" who="U220769" when="2023-03-17T22:38:01Z" target="#P1413541">
+          Version 9 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG13" who="U220769" when="2021-10-22T20:31:43Z" target="#P1413541">
+          Version 8 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG12" who="U220769" when="2021-07-06T20:16:23Z" target="#P1413541">
+          Version 7 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG11" who="U220769" when="2021-02-02T18:57:59Z" target="#P1413541">
+          Version 6 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG10" who="U220769" when="2020-11-05T21:51:48Z" target="#P1413541">
+          Version 5 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG9" who="U220769" when="2020-10-20T18:06:39Z" target="#P1413541">
+          Version 4 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG8" who="U220769" when="2020-10-20T16:50:48Z" target="#P1413541">
+          Version 3 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG7" who="U220769" when="2020-08-27T19:39:33Z" target="#P1413542">
+          Version 4 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG6" who="U215567" when="2020-08-27T16:38:34Z" target="#P1413542">
+          Version 3 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U220769" when="2020-08-25T18:13:56Z" target="#P1413542">
+          Version 2 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG4" who="U220769" when="2020-08-25T18:12:47Z" target="#P1413541">
+          Version 2 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG3" who="U215567" when="2020-08-19T17:04:08Z" target="#P1413542">
+          Version 1 of page "Page 2":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG2" who="U215567" when="2020-08-19T17:04:06Z" target="#P1413541">
+          Version 1 of page "Page 1":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG1" who="U215567" when="2020-08-19T17:04:02Z" target="#P1413542">
+          Version 0 of page "Page 2":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U215567" when="2020-08-19T17:04:02Z" target="#P1413541">
+          Version 0 of page "Page 1":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+        <pb xml:id="F1413541" n="1" facs="https://cdm17313.contentdm.oclc.org/digital/iiif/mdah/574/full/full/0/default.jpg"/>
+        <div xml:id="OTP1413541">
+        <fw type="pageNum">Page 1</fw>
+          <p corresp='TTP1413541P0' xml:id='OTP1413541P0'><rs ref='#S63360'>Baton Rouge</rs> <rs ref='#S55257'>arsenal</rs> <lb/>
+April 23<add place='above'>d</add>. 1860. <lb/>
+To<lb/>
+His Excel.<add place='above'>y</add> <rs ref='#S63111'>J. J. Pettus</rs><lb/>
+Governor of Mississippi. <lb/>
+Sir;
+</p>
+
+<p corresp='TTP1413541P1' xml:id='OTP1413541P1'>On the 29<add place='above'>th</add>. ult, I shipped on board Steamer <rs ref='#S63362'>H. R. W. Hill</rs> a lot of <rs ref='#S25013536'>Ordnance</rs> &amp; ordinance Stores for transportation to your address;—&amp; which were received at <rs ref='#S51788'>Vicksburg</rs> by <rs ref='#S63363'>B. J. Butler</rs>.—I also forwarded to you by mail on same day, triplicate blank receipts, with the request that you would sign &amp; return them to me.
+</p>
+
+<p corresp='TTP1413541P2' xml:id='OTP1413541P2'>As The receipts are necessary for the Settlement of my 1.<add place='above'>st</add> quarter accounts (1860)—I have respect-fully to request that you will sign and return them to me at your earliest convenience
+</p>
+
+<p corresp='TTP1413541P3' xml:id='OTP1413541P3'>Very Respectfully <lb/>
+Your Obt. Sert. <lb/>
+<rs ref='#S63364'>Theo. Lewis</rs><lb/>
+P.M. &amp; M.S.R.
+</p>
+
+
+        </div>
+        <pb xml:id="F1413542" n="2" facs="https://cdm17313.contentdm.oclc.org/digital/iiif/mdah/575/full/full/0/default.jpg"/>
+        <div xml:id="OTP1413542">
+        <fw type="pageNum">Page 2</fw>
+          <p corresp='TTP1413542P0' xml:id='OTP1413542P0'>Theo Lewis. L.a.<lb/>
+Answered.<lb/>
+Arms from Baton Rouge
+</p>
+
+
+        </div>
+  </body>
+</text>
+</TEI>

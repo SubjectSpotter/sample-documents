@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+xml:lang="EN"
+xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Letter from Lieutenant Governor A. K. Davis to Mississippi Governor Adelbert Ames; May 9, 1874</title>
+        <title type="desc"></title>
+      </title>
+      <author>
+        <persName></persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU220769">
+        <resp>Initial upload of this work&#39;s facsimile images and metadata to FromThePage for editing</resp>
+        <persName>Lindsey Peterson (CWRGM Co-Director)</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU215593">
+        <resp>Administrator of the Civil War &amp; Reconstruction Governors of Mississippi, Main Collection transcription project on FromThePage</resp>
+        <persName>Civil War and Reconstruction Governors of Mississippi</persName>
+      </respStmt>
+
+        <respStmt xml:id="U25091253">
+          <persName
+            >
+            Emily Dent
+            </persName>
+            <resp>
+              made 5 edits between
+              <date type="first_edit" when="2023-03-19T22:39:23Z">March 19, 2023</date> and
+              <date type="last_edit" when="2023-03-20T01:57:18Z">March 20, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U25091356">
+          <persName
+            >
+            Rachel Brown
+            </persName>
+            <resp>
+              made 3 edits between
+              <date type="first_edit" when="2023-04-07T21:49:15Z">April  7, 2023</date> and
+              <date type="last_edit" when="2023-04-07T21:50:41Z">April  7, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U32019810">
+          <persName
+            >
+            Ian Spurgeon
+            </persName>
+            <resp>
+              made 3 edits between
+              <date type="first_edit" when="2024-09-14T18:40:47Z">September 14, 2024</date> and
+              <date type="last_edit" when="2024-10-24T02:11:57Z">October 24, 2024</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U231087">
+          <persName
+            >
+            DeeDee Baldwin
+            </persName>
+            <resp>
+              made 3 edits between
+              <date type="first_edit" when="2023-01-18T00:02:51Z">January 18, 2023</date> and
+              <date type="last_edit" when="2023-01-18T00:05:33Z">January 18, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U220769">
+          <persName
+            >
+            Lindsey Peterson (CWRGM Co-Director)
+            </persName>
+            <resp>
+              made 2 edits between
+              <date type="first_edit" when="2023-09-02T18:44:10Z">September  2, 2023</date> and
+              <date type="last_edit" when="2024-12-11T19:35:23Z">December 11, 2024</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U2">
+          <persName
+            >
+            Ben W. Brumfield
+            </persName>
+            <resp>
+              made 2 edits between
+              <date type="first_edit" when="2024-10-25T15:09:43Z">October 25, 2024</date> and
+              <date type="last_edit" when="2024-10-25T16:53:37Z">October 25, 2024</date>.
+            </resp>
+        </respStmt>
+
+
+
+    </editionStmt>
+
+    <publicationStmt>
+    <publisher>Dynamic TEI export from FromThePage (version 22.10)</publisher>
+      <availability>
+        <p></p>
+      </availability>
+      <date when="2024-12-12T16:24:04+00:00">December 12, 2024</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+            <collection>Civil War &amp; Reconstruction Governors of Mississippi, Main Collection</collection>
+        </msIdentifier>
+        <physDesc>
+          <p></p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName></placeName>
+          </origin>
+          <provenance></provenance>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S32076240">
+              <persName>Davis, A. K. (Alexander Kelso), u.-1884</persName>
+                <idno>https://mississippiencyclopedia.org/entries/alexander-k-davis/</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002630">African Americans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002983">Men</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS32076240P0'>Alexander K. Davis was a representative in the Mississippi legislature and served as the state’s lieutenant governor from 1874 to 1876, during Reconstruction. He was the first African American lieutenant governor of Mississippi.
+</p>
+
+<p xml:id='OTPS32076240P1'>Little was recorded of Davis’ past. His date and place of birth are not known. During testimony before Congress in 1871 he explained that he moved to Noxubee County, Mississippi, from Tennessee in 1869, and said he had been admitted to the bar (a reference that he had been accepted as a practicing attorney in a city or county), but did not specify in which state. He won a seat in Mississippi’s House of Representatives shortly after coming to Mississippi and became a leading figure in the state’s Republican Party circles. In 1873, Radical Republicans backed by a majority of African American voters in Mississippi, won a series of state elections. Davis was one of three African Americans elected to statewide office that year, winning the lieutenant governor seat. (The other Black figures to win statewide election were James Hill as secretary of state and T. W. Cardozo as state superintendent of education.) The following year, white conservatives carried out a campaign of intimidation and violence to suppress Republican and African American voting and put Democrats into political power. The effort worked and by 1875, Democrats held a majority of state legislative seats. Emboldened by their political power, Democrats tried to rid Republicans from many state positions. They specifically targeted Davis and northern-born and Radical Republican Governor Adelbert Ames, accusing both men of improprieties in office. Davis was charged with illegal granting of pardons. Despite his effort to fight the trumped-up charges, Mississippi Democrats impeached Davis in March 1876. Knowing that the conviction would result in him being removed from office, Davis resigned. Governor Ames, also facing politically-driven impeachment proceedings that would require extensive time and financial resources to fight, resigned as well. Following his resignation, Davis abandoned politics. He moved to Canton, Mississippi and worked as a pastor. He died on November 21, 1884. (Wikipedia; Dernoral Davis, "Alexander K. Davis," Mississippi Encyclopedia; Clyde Tucker, “Alexander K. Davis (?-1884),” Black Past)
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S52648">
+              <persName>Ames, Adelbert, 1835-1933</persName>
+                <idno>https://en.wikipedia.org/wiki/Adelbert_Ames</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002631">Veterans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002983">Men</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS52648P0'>"Adelbert Ames served as a governor and U.S. senator of Mississippi during the Reconstruction era.  He was born in East Thomaston (modern-day Rockland), Maine, in 1835. As a boy, Ames spent time working on various merchant vessels, receiving training in seamanship. He entered the United States Military Academy at West Point in 1856, graduating in May 1861, at the start of the Civil War. Commissioned as a second lieutenant, the young Ames was promoted to first lieutenant barely over a week later and served with the 5th U.S. Artillery during the battle of First Bull Run at Manassas, Virginia, on July 21, 1861. Despite being wounded in the leg, Ames stayed by his cannons. His actions at Bull Run led him to receive the brevet (honorary) rank of major and, in 1893 (more than thirty years later), the Medal of Honor.
+</p>
+
+<p xml:id='OTPS52648P1'>Ames recovered from his wound and returned to the front lines in 1862, serving with distinction as an artillery officer during the Peninsula Campaign near Richmond. Seeking better promotion potential, Ames sought an infantry command. Through those efforts, in August 1862, he received command of the 20th Maine Infantry Regiment, and led that unit in combat during the Battle of Fredericksburg in December 1862. In May 1863, he volunteered to serve as a staff officer for Major General George G. Meade, which helped him achieve the rank of brigadier general that month. With this promotion, Ames left the 20th Maine to his second-in-command, Lieutenant Colonel Joshua Lawrence Chamberlain, who gained great fame commanding the regiment at Little Round Top during the Battle of Gettysburg in July 1863. Ames’ own performance at Gettysburg was highly praised, as his division successfully defended the Union position at Cemetery Hill.
+</p>
+
+<p xml:id='OTPS52648P2'>After Gettysburg, Ames’ division was transferred to the Department of the South. Over the next two years, he commanded Union troops during campaigns in Florida, South Carolina, North Carolina, and Virginia. He received a brevet promotion to major general for his actions at Fort Fisher, North Carolina, in March 1865.
+</p>
+
+<p xml:id='OTPS52648P3'>After the Civil War, Ames became involved in federal Reconstruction efforts. In 1868, he was appointed the provisional governor of Mississippi. Ames proved sympathetic to the plight of African Americans in the south. He sought to protect Black civil rights and appointed Mississippi’s first African American public officials. In 1870, after Mississippi was readmitted into the Union, Ames ran for U.S. senator for the state as a Republican and won. He served in that capacity from February 1870 to January 1874, achieving the reputation as a strong public speaker. While serving as a senator in Washington, D.C., Ames met and married Blanche Butler, daughter of Union general Benjamin F. Butler, under whom Ames had served during the war. Ames and his wife had six children over the course of their marriage.
+</p>
+
+<p xml:id='OTPS52648P4'>In 1873, Ames ran for governor of Mississippi. His chief rival was James L. Alcorn, a former Confederate general who had been a Whig before the Civil War and joined the Republican Party afterwards. Ames won the election and worked diligently to improve Mississippi’s financial and social situation. In 1874, Democrats in Mississippi coordinated a campaign of violence against African Americans and white Republicans in the state, to secure political control in Mississippi. Unable to militarily suppress the white supremacist terror campaign, Ames signed a truce with Democratic leaders in Mississippi to reduce the violence and allow a peaceful election. Groups of white supremacists abandoned the truce and resumed their intimidation tactics against Republicans and Black Mississippians during the following elections, leading to a surge of Democratic politicians taking office.
+</p>
+
+<p xml:id='OTPS52648P5'>In 1876, the conservative Democrat majority in the Mississippi legislature tried to impeach Ames and many other Republican officials with trumped up charges of corruption. Despite a strong political force against him, Ames’ critics were unable to provide any evidence of impropriety. Nevertheless, because impeachment was politically driven, Ames could see that his future as governor was over and any effort on his part to legally defend himself would be personally and financially taxing. He and his attorneys reached an agreement with Democratic leaders to resign his office in exchange for dropping the legal charges. On March 29, 1876, after Democrats cancelled their legal proceedings, Ames vacated his position.
+</p>
+
+<p xml:id='OTPS52648P6'>Ames left Mississippi and went into business in Minnesota with his father and brother. A short time later, he relocated to New York City and then Massachusetts, overseeing mills and various business interests. When the Spanish-American War erupted in 1898, Ames volunteered for service and was appointed brigadier general of volunteers. Although over sixty years old, Ames joined the field campaign in Cuba and performed well.
+</p>
+
+<p xml:id='OTPS52648P7'>Ames resumed his business ventures in the early twentieth century. He lived until 1933, dying at age 97. He is buried in Lowell, Massachusetts. (Wikipedia)"
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S71918">
+              <persName>Sullivan, Thomas Crook, 1833-1908</persName>
+                <idno>https://en.wikipedia.org/wiki/Thomas_Crook_Sullivan</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002631">Veterans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002895">Widowers</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002983">Men</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS71918P0'>Thomas Crook Sullivan was a U.S. Army officer in the late nineteenth century. Born in Montgomery County, Ohio, on November 14, 1833, Sullivan graduated from the United States Military Academy at West Point, New York, in 1856. He was sent to the First U.S. Artillery Regiment in Texas, where participated in a campaign against Mexican irregular troops under Juan Cortina, who raided American settlements across the Texas border. In early 1861, during the secession crisis following the 1860 presidential election, Sullivan was sent to Washington, D.C., and served as a military guard for Abraham Lincoln during the inauguration. He continued to serve in the Union army through the Civil War, receiving brevet (honorary) promotions to major and lieutenant colonel. After the Civil War, he remained in the regular army and served as a commissary officer, overseeing food provisions for U.S. military forces. Sullivan retired as Commissary General of Subsistence in 1897. He died on March 11, 1908. He was married to Martha Castelman Sullivan, who preceded him in death by eleven years. Sullivan’s remains were cremated and interred in Arlington National Cemetery in Arlington, Virginia. (Wikipedia; FindaGrave)  
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S32067513">
+              <persName>Morgan, Albert Talmon, 1842-1922</persName>
+                <idno>https://en.wikipedia.org/wiki/Albert_T._Morgan</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002631">Veterans</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002896">Charged with Criminal Activity</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS32067513P0'>Albert Talmon Morgan was a Union soldier during the Civil War and a Republican politician in Mississippi during Reconstruction.
+</p>
+
+<p xml:id='OTPS32067513P1'>Born on June 9, 1842, in Theresa, New York, Morgan moved as a child with his family to Wisconsin. He began attending Oberlin College in Ohio, but left school to volunteer for Union military service at the start of the Civil War. He enlisted in the Second Wisconsin Infantry Regiment, which became part of the famed “Iron Brigade”—a brigade of four midwestern Union regiments known for their broad black hats and bravery in battle. Morgan was wounded and captured at Brawner’s Farm during the opening shots of the Battle of Second Manassas in August 1862, but was exchanged and returned to his unit in time to be wounded again at the Battle of Gettysburg in 1863. He was repeatedly promoted during the war, eventually reaching the rank of captain in late 1864. When the Second Wisconsin Infantry was so badly depleted due to casualties, Morgan and the remaining members of the regiment were formed into an independent battalion that was eventually placed into the Sixth Wisconsin Infantry Regiment. Morgan was wounded a third time, during fighting near Petersburg, Virginia, but again returned to service to muster out with his unit.
+</p>
+
+<p xml:id='OTPS32067513P2'>In November 1865, after separating from the Union army, Morgan moved to Mississippi with his brother Charles. He started a pro-Republican newspaper in Yazoo City and served as a delegate to Mississippi’s constitutional convention in 1868 and 1869. He then won election to the Mississippi Senate in 1869.
+</p>
+
+<p xml:id='OTPS32067513P3'>In 1870, Morgan married Carolyn Victoria Highgate, a teacher from Ithaca, New York, who was part African American. Morgan successfully labored within the Mississippi Senate to overturn the state’s laws against interracial marriage in order to legally marry Carolyn. The couple had six children.
+</p>
+
+<p xml:id='OTPS32067513P4'>While serving as state senator in the early 1870s, Morgan also took the office of chancery clerk in Yazoo County. In 1873, he was ejected from the Senate for holding both positions at the same time. Shortly after losing his Senate seat, Morgan ran for sheriff of Yazoo County. Although he won the election, the incumbent sheriff, Francis P. Hilliard, refused to vacate the office. The dispute led to a deadly confrontation in January 1874, as both men led groups of supporters to take control of the courthouse. During the altercation, Hilliard was shot in the head and killed. Morgan was arrested for the killing and spent several months in jail, but a grand jury decided not to indict him, at least in part because officials believed the fatal shot may have come from a different direction than Morgan. Released from jail and cleared of all charges, Morgan took his place as sheriff.
+</p>
+
+<p xml:id='OTPS32067513P5'>Political violence increased in Mississippi in 1874 and 1875, as white conservatives began attacking Black residents and Republicans. Morgan’s efforts to quell the violence failed, and he was chased out of the county after a group of armed men broke apart a Republican meeting in Yazoo County in September 1875. He departed Mississippi in 1876 and testified in U.S. Congressional hearings in Washington, D.C., about the racial violence in Mississippi.
+</p>
+
+<p xml:id='OTPS32067513P6'>After leaving Mississippi, Morgan and his family lived in Kansas and then in Colorado. He died on April 15, 1922, in Denver. He is buried in Crown Hill Cemetery in Indianapolis, Indiana. (Wikipedia; FindaGrave)
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S32077302">
+              <persName>Barrett, Fred, 1843-1895</persName>
+                <idno>https://www.findagrave.com/memorial/70080631/fred-barrett</idno>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                    <ab>
+                        <ptr ana="#category #root" target="#C2750">People</ptr> --
+                      <ptr ana="#category #leaf" target="#C32002983">Men</ptr>
+                    </ab>
+                </note>
+                <note type="article">
+                    <p xml:id='OTPS32077302P0'>Dr. Fred Barrett was the private secretary of Mississippi governor Adelbert Ames during Reconstruction and a newspaper editor. Born on November 5, 1843, in Clearfield, Pennsylvania, Barrett graduated with a medical degree from Jefferson College in Philadelphia, Pennsylvania, in 1866, and practiced medicine in Pennsylvania for two years before moving to Mississippi during the Reconstruction era. He was an active member of the Republican Party and served in the Mississippi legislature for four years, before working as the private secretary of northern-born governor Adelbert Ames. Barrett also became involved in newspaper editing, managing the <hi rend='italic'>Southern Republican</hi> in the 1870s.
+</p>
+
+<p xml:id='OTPS32077302P1'>Barrett received a government job in Washington, D.C., after Reconstruction. He later moved to Wisconsin and then Minnesota, where he operated various newspapers. Barrett died in Tower, Minnesota, in 1895 at the age of 51 from Bright’s Disease. He was married to Caroline Redmond and had four children. He is buried in Lake View Cemetery in Tower, Minnesota. (FindaGrave)
+</p>
+
+
+                </note>
+            </person>
+        </listPerson>
+
+    </sourceDesc>
+
+  </fileDesc>
+
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+<category xml:id='C32001127'>
+<catDesc>Businesses</catDesc>
+</category>
+<category xml:id='C2787'>
+<catDesc>Events</catDesc>
+</category>
+<category xml:id='C25000149'>
+<catDesc>Military Units</catDesc>
+</category>
+<category xml:id='C2788'>
+<catDesc>Occupations</catDesc>
+<category xml:id='C32001719'>
+<catDesc>Professional Labor</catDesc>
+          <category xml:id='S95466'>
+            <catDesc>
+              <term>Secretaries</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/secretary</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2788'>Occupations</ptr> -- <ptr ana='#category #leaf' target='#C32001719'>Professional Labor</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD95466P0'>“Someone who works in an office, writing letters, making phone calls, and arranging meetings for a person or for an organization.” (Cambridge Dictionary) CWRGM includes people who perform administrative assistance under this tag, but we do not include government positions that incorporate the word secretary, such as Secretary of State, under this subject tag.
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2789'>
+<catDesc>Organizations</catDesc>
+<category xml:id='C32001144'>
+<catDesc>U.S. State Governments</catDesc>
+          <category xml:id='S25026074'>
+            <catDesc>
+              <term>Mississippi--Executive Department</term>
+              <idno>https://en.wikipedia.org/wiki/Government_of_Mississippi#:~:text=The%20executive%20branch%20of%20Mississippi,Commission%2C%20and%20the%20three%2Dperson</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001144'>U.S. State Governments</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.29889, -90.18472</geo>
+              </note>
+              <gloss><p xml:id='OTPSD25026074P0'>Operating at the state level, the Executive Department of the State of Mississippi consists of the governor, lieutenant governor, secretary of state, state treasurer, state comptroller, commissioner of agriculture, commissioner of insurance, the Mississippi Public Service Commission, the Mississippi Transportation Commission, and attorney general. Each official is elected for a four-year term and is appointed duties pertaining to state regulations. (Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001717'>
+<catDesc>Voluntary Social &amp; Political Groups</catDesc>
+          <category xml:id='S25025465'>
+            <catDesc>
+              <term>Relief &amp; Welfare--Boards of Relief</term>
+              <idno>https://dictionary.cambridge.org/us/dictionary/english/charity</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001717'>Voluntary Social &amp; Political Groups</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD25025465P0'>"An organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit." (Cambridge Dictionary)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2750'>
+<catDesc>People</catDesc>
+          <category xml:id='S52648'>
+            <catDesc>
+              <term>Ames, Adelbert, 1835-1933</term>
+              <idno>https://en.wikipedia.org/wiki/Adelbert_Ames</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002631'>Veterans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002983'>Men</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD52648P0'>"Adelbert Ames served as a governor and U.S. senator of Mississippi during the Reconstruction era.  He was born in East Thomaston (modern-day Rockland), Maine, in 1835. As a boy, Ames spent time working on various merchant vessels, receiving training in seamanship. He entered the United States Military Academy at West Point in 1856, graduating in May 1861, at the start of the Civil War. Commissioned as a second lieutenant, the young Ames was promoted to first lieutenant barely over a week later and served with the 5th U.S. Artillery during the battle of First Bull Run at Manassas, Virginia, on July 21, 1861. Despite being wounded in the leg, Ames stayed by his cannons. His actions at Bull Run led him to receive the brevet (honorary) rank of major and, in 1893 (more than thirty years later), the Medal of Honor.
+</p>
+
+<p xml:id='OTPSD52648P1'>Ames recovered from his wound and returned to the front lines in 1862, serving with distinction as an artillery officer during the Peninsula Campaign near Richmond. Seeking better promotion potential, Ames sought an infantry command. Through those efforts, in August 1862, he received command of the 20th Maine Infantry Regiment, and led that unit in combat during the Battle of Fredericksburg in December 1862. In May 1863, he volunteered to serve as a staff officer for Major General George G. Meade, which helped him achieve the rank of brigadier general that month. With this promotion, Ames left the 20th Maine to his second-in-command, Lieutenant Colonel Joshua Lawrence Chamberlain, who gained great fame commanding the regiment at Little Round Top during the Battle of Gettysburg in July 1863. Ames’ own performance at Gettysburg was highly praised, as his division successfully defended the Union position at Cemetery Hill.
+</p>
+
+<p xml:id='OTPSD52648P2'>After Gettysburg, Ames’ division was transferred to the Department of the South. Over the next two years, he commanded Union troops during campaigns in Florida, South Carolina, North Carolina, and Virginia. He received a brevet promotion to major general for his actions at Fort Fisher, North Carolina, in March 1865.
+</p>
+
+<p xml:id='OTPSD52648P3'>After the Civil War, Ames became involved in federal Reconstruction efforts. In 1868, he was appointed the provisional governor of Mississippi. Ames proved sympathetic to the plight of African Americans in the south. He sought to protect Black civil rights and appointed Mississippi’s first African American public officials. In 1870, after Mississippi was readmitted into the Union, Ames ran for U.S. senator for the state as a Republican and won. He served in that capacity from February 1870 to January 1874, achieving the reputation as a strong public speaker. While serving as a senator in Washington, D.C., Ames met and married Blanche Butler, daughter of Union general Benjamin F. Butler, under whom Ames had served during the war. Ames and his wife had six children over the course of their marriage.
+</p>
+
+<p xml:id='OTPSD52648P4'>In 1873, Ames ran for governor of Mississippi. His chief rival was James L. Alcorn, a former Confederate general who had been a Whig before the Civil War and joined the Republican Party afterwards. Ames won the election and worked diligently to improve Mississippi’s financial and social situation. In 1874, Democrats in Mississippi coordinated a campaign of violence against African Americans and white Republicans in the state, to secure political control in Mississippi. Unable to militarily suppress the white supremacist terror campaign, Ames signed a truce with Democratic leaders in Mississippi to reduce the violence and allow a peaceful election. Groups of white supremacists abandoned the truce and resumed their intimidation tactics against Republicans and Black Mississippians during the following elections, leading to a surge of Democratic politicians taking office.
+</p>
+
+<p xml:id='OTPSD52648P5'>In 1876, the conservative Democrat majority in the Mississippi legislature tried to impeach Ames and many other Republican officials with trumped up charges of corruption. Despite a strong political force against him, Ames’ critics were unable to provide any evidence of impropriety. Nevertheless, because impeachment was politically driven, Ames could see that his future as governor was over and any effort on his part to legally defend himself would be personally and financially taxing. He and his attorneys reached an agreement with Democratic leaders to resign his office in exchange for dropping the legal charges. On March 29, 1876, after Democrats cancelled their legal proceedings, Ames vacated his position.
+</p>
+
+<p xml:id='OTPSD52648P6'>Ames left Mississippi and went into business in Minnesota with his father and brother. A short time later, he relocated to New York City and then Massachusetts, overseeing mills and various business interests. When the Spanish-American War erupted in 1898, Ames volunteered for service and was appointed brigadier general of volunteers. Although over sixty years old, Ames joined the field campaign in Cuba and performed well.
+</p>
+
+<p xml:id='OTPSD52648P7'>Ames resumed his business ventures in the early twentieth century. He lived until 1933, dying at age 97. He is buried in Lowell, Massachusetts. (Wikipedia)"
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32077302'>
+            <catDesc>
+              <term>Barrett, Fred, 1843-1895</term>
+              <idno>https://www.findagrave.com/memorial/70080631/fred-barrett</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002983'>Men</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32077302P0'>Dr. Fred Barrett was the private secretary of Mississippi governor Adelbert Ames during Reconstruction and a newspaper editor. Born on November 5, 1843, in Clearfield, Pennsylvania, Barrett graduated with a medical degree from Jefferson College in Philadelphia, Pennsylvania, in 1866, and practiced medicine in Pennsylvania for two years before moving to Mississippi during the Reconstruction era. He was an active member of the Republican Party and served in the Mississippi legislature for four years, before working as the private secretary of northern-born governor Adelbert Ames. Barrett also became involved in newspaper editing, managing the <hi rend='italic'>Southern Republican</hi> in the 1870s.
+</p>
+
+<p xml:id='OTPSD32077302P1'>Barrett received a government job in Washington, D.C., after Reconstruction. He later moved to Wisconsin and then Minnesota, where he operated various newspapers. Barrett died in Tower, Minnesota, in 1895 at the age of 51 from Bright’s Disease. He was married to Caroline Redmond and had four children. He is buried in Lake View Cemetery in Tower, Minnesota. (FindaGrave)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32076240'>
+            <catDesc>
+              <term>Davis, A. K. (Alexander Kelso), u.-1884</term>
+              <idno>https://mississippiencyclopedia.org/entries/alexander-k-davis/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002630'>African Americans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002983'>Men</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32076240P0'>Alexander K. Davis was a representative in the Mississippi legislature and served as the state’s lieutenant governor from 1874 to 1876, during Reconstruction. He was the first African American lieutenant governor of Mississippi.
+</p>
+
+<p xml:id='OTPSD32076240P1'>Little was recorded of Davis’ past. His date and place of birth are not known. During testimony before Congress in 1871 he explained that he moved to Noxubee County, Mississippi, from Tennessee in 1869, and said he had been admitted to the bar (a reference that he had been accepted as a practicing attorney in a city or county), but did not specify in which state. He won a seat in Mississippi’s House of Representatives shortly after coming to Mississippi and became a leading figure in the state’s Republican Party circles. In 1873, Radical Republicans backed by a majority of African American voters in Mississippi, won a series of state elections. Davis was one of three African Americans elected to statewide office that year, winning the lieutenant governor seat. (The other Black figures to win statewide election were James Hill as secretary of state and T. W. Cardozo as state superintendent of education.) The following year, white conservatives carried out a campaign of intimidation and violence to suppress Republican and African American voting and put Democrats into political power. The effort worked and by 1875, Democrats held a majority of state legislative seats. Emboldened by their political power, Democrats tried to rid Republicans from many state positions. They specifically targeted Davis and northern-born and Radical Republican Governor Adelbert Ames, accusing both men of improprieties in office. Davis was charged with illegal granting of pardons. Despite his effort to fight the trumped-up charges, Mississippi Democrats impeached Davis in March 1876. Knowing that the conviction would result in him being removed from office, Davis resigned. Governor Ames, also facing politically-driven impeachment proceedings that would require extensive time and financial resources to fight, resigned as well. Following his resignation, Davis abandoned politics. He moved to Canton, Mississippi and worked as a pastor. He died on November 21, 1884. (Wikipedia; Dernoral Davis, "Alexander K. Davis," Mississippi Encyclopedia; Clyde Tucker, “Alexander K. Davis (?-1884),” Black Past)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32067513'>
+            <catDesc>
+              <term>Morgan, Albert Talmon, 1842-1922</term>
+              <idno>https://en.wikipedia.org/wiki/Albert_T._Morgan</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002631'>Veterans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002896'>Charged with Criminal Activity</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32067513P0'>Albert Talmon Morgan was a Union soldier during the Civil War and a Republican politician in Mississippi during Reconstruction.
+</p>
+
+<p xml:id='OTPSD32067513P1'>Born on June 9, 1842, in Theresa, New York, Morgan moved as a child with his family to Wisconsin. He began attending Oberlin College in Ohio, but left school to volunteer for Union military service at the start of the Civil War. He enlisted in the Second Wisconsin Infantry Regiment, which became part of the famed “Iron Brigade”—a brigade of four midwestern Union regiments known for their broad black hats and bravery in battle. Morgan was wounded and captured at Brawner’s Farm during the opening shots of the Battle of Second Manassas in August 1862, but was exchanged and returned to his unit in time to be wounded again at the Battle of Gettysburg in 1863. He was repeatedly promoted during the war, eventually reaching the rank of captain in late 1864. When the Second Wisconsin Infantry was so badly depleted due to casualties, Morgan and the remaining members of the regiment were formed into an independent battalion that was eventually placed into the Sixth Wisconsin Infantry Regiment. Morgan was wounded a third time, during fighting near Petersburg, Virginia, but again returned to service to muster out with his unit.
+</p>
+
+<p xml:id='OTPSD32067513P2'>In November 1865, after separating from the Union army, Morgan moved to Mississippi with his brother Charles. He started a pro-Republican newspaper in Yazoo City and served as a delegate to Mississippi’s constitutional convention in 1868 and 1869. He then won election to the Mississippi Senate in 1869.
+</p>
+
+<p xml:id='OTPSD32067513P3'>In 1870, Morgan married Carolyn Victoria Highgate, a teacher from Ithaca, New York, who was part African American. Morgan successfully labored within the Mississippi Senate to overturn the state’s laws against interracial marriage in order to legally marry Carolyn. The couple had six children.
+</p>
+
+<p xml:id='OTPSD32067513P4'>While serving as state senator in the early 1870s, Morgan also took the office of chancery clerk in Yazoo County. In 1873, he was ejected from the Senate for holding both positions at the same time. Shortly after losing his Senate seat, Morgan ran for sheriff of Yazoo County. Although he won the election, the incumbent sheriff, Francis P. Hilliard, refused to vacate the office. The dispute led to a deadly confrontation in January 1874, as both men led groups of supporters to take control of the courthouse. During the altercation, Hilliard was shot in the head and killed. Morgan was arrested for the killing and spent several months in jail, but a grand jury decided not to indict him, at least in part because officials believed the fatal shot may have come from a different direction than Morgan. Released from jail and cleared of all charges, Morgan took his place as sheriff.
+</p>
+
+<p xml:id='OTPSD32067513P5'>Political violence increased in Mississippi in 1874 and 1875, as white conservatives began attacking Black residents and Republicans. Morgan’s efforts to quell the violence failed, and he was chased out of the county after a group of armed men broke apart a Republican meeting in Yazoo County in September 1875. He departed Mississippi in 1876 and testified in U.S. Congressional hearings in Washington, D.C., about the racial violence in Mississippi.
+</p>
+
+<p xml:id='OTPSD32067513P6'>After leaving Mississippi, Morgan and his family lived in Kansas and then in Colorado. He died on April 15, 1922, in Denver. He is buried in Crown Hill Cemetery in Indianapolis, Indiana. (Wikipedia; FindaGrave)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S71918'>
+            <catDesc>
+              <term>Sullivan, Thomas Crook, 1833-1908</term>
+              <idno>https://en.wikipedia.org/wiki/Thomas_Crook_Sullivan</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #leaf #root' target='#C2750'>People</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002631'>Veterans</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002895'>Widowers</ptr></ab>
+<ab><ptr ana='#category #root' target='#C2750'>People</ptr> -- <ptr ana='#category #leaf' target='#C32002983'>Men</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD71918P0'>Thomas Crook Sullivan was a U.S. Army officer in the late nineteenth century. Born in Montgomery County, Ohio, on November 14, 1833, Sullivan graduated from the United States Military Academy at West Point, New York, in 1856. He was sent to the First U.S. Artillery Regiment in Texas, where participated in a campaign against Mexican irregular troops under Juan Cortina, who raided American settlements across the Texas border. In early 1861, during the secession crisis following the 1860 presidential election, Sullivan was sent to Washington, D.C., and served as a military guard for Abraham Lincoln during the inauguration. He continued to serve in the Union army through the Civil War, receiving brevet (honorary) promotions to major and lieutenant colonel. After the Civil War, he remained in the regular army and served as a commissary officer, overseeing food provisions for U.S. military forces. Sullivan retired as Commissary General of Subsistence in 1897. He died on March 11, 1908. He was married to Martha Castelman Sullivan, who preceded him in death by eleven years. Sullivan’s remains were cremated and interred in Arlington National Cemetery in Arlington, Virginia. (Wikipedia; FindaGrave)  
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+<category xml:id='C32002630'>
+<catDesc>African Americans</catDesc>
+<category xml:id='C32002630S32076240'>
+<catDesc>
+<term><rs ref='S32076240'>Davis, A. K. (Alexander Kelso), u.-1884</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002896'>
+<catDesc>Charged with Criminal Activity</catDesc>
+<category xml:id='C32002896S32067513'>
+<catDesc>
+<term><rs ref='S32067513'>Morgan, Albert Talmon, 1842-1922</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002983'>
+<catDesc>Men</catDesc>
+<category xml:id='C32002983S52648'>
+<catDesc>
+<term><rs ref='S52648'>Ames, Adelbert, 1835-1933</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32002983S32077302'>
+<catDesc>
+<term><rs ref='S32077302'>Barrett, Fred, 1843-1895</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32002983S32076240'>
+<catDesc>
+<term><rs ref='S32076240'>Davis, A. K. (Alexander Kelso), u.-1884</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32002983S71918'>
+<catDesc>
+<term><rs ref='S71918'>Sullivan, Thomas Crook, 1833-1908</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002631'>
+<catDesc>Veterans</catDesc>
+<category xml:id='C32002631S52648'>
+<catDesc>
+<term><rs ref='S52648'>Ames, Adelbert, 1835-1933</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32002631S32067513'>
+<catDesc>
+<term><rs ref='S32067513'>Morgan, Albert Talmon, 1842-1922</rs></term>
+</catDesc>
+</category>
+<category xml:id='C32002631S71918'>
+<catDesc>
+<term><rs ref='S71918'>Sullivan, Thomas Crook, 1833-1908</rs></term>
+</catDesc>
+</category>
+</category>
+<category xml:id='C32002895'>
+<catDesc>Widowers</catDesc>
+<category xml:id='C32002895S71918'>
+<catDesc>
+<term><rs ref='S71918'>Sullivan, Thomas Crook, 1833-1908</rs></term>
+</catDesc>
+</category>
+</category>
+</category>
+<category xml:id='C2751'>
+<catDesc>Places</catDesc>
+<category xml:id='C32001861'>
+<catDesc>Counties &amp; Parishes</catDesc>
+          <category xml:id='S63228'>
+            <catDesc>
+              <term>Mississippi--Hinds County</term>
+              <idno>https://mississippiencyclopedia.org/entries/hinds-county/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001861'>Counties &amp; Parishes</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.26, -90.44</geo>
+              </note>
+              <gloss><p xml:id='OTPSD63228P0'>Located in west-central Mississippi, Hinds County was established on February 12, 1821. (Mississippi Encyclopedia; Wikipedia; Atlas of Historical County Boundaries)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001862'>
+<catDesc>Towns &amp; Cities</catDesc>
+          <category xml:id='S63017'>
+            <catDesc>
+              <term>Louisiana--Orleans Parish. New Orleans</term>
+              <idno>https://en.wikipedia.org/wiki/New_Orleans</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>29.95, -90.08</geo>
+              </note>
+              <gloss><p xml:id='OTPSD63017P0'>Located in Orleans Parish, New Orleans was founded in 1718. It became the capital of French Louisiana in 1722 and continued as the capital when Louisiana achieved statehood on April 30, 1812. It became part of Orleans County (now extinct) on the same day. In 1849 it was replaced by Baton Rouge as the state capital, although it temporarily served as the capital again from 1865 until 1880. (Wikipedia; Atlas of Historical County Boundaries)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S51785'>
+            <catDesc>
+              <term>Mississippi--Hinds County. Jackson</term>
+              <idno>https://www.britannica.com/place/Jackson-Mississippi</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>32.29889, -90.18472</geo>
+              </note>
+              <gloss><p xml:id='OTPSD51785P0'>Located in Hinds County, Jackson was founded in 1822 and serves as one of two county seats of Hinds County and the state capital of Mississippi. (Britannica)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001860'>
+<catDesc>U.S. States</catDesc>
+          <category xml:id='S63020'>
+            <catDesc>
+              <term>Louisiana</term>
+              <idno>https://www.britannica.com/place/Louisiana-state</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001860'>U.S. States</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>31.0, -92.0</geo>
+              </note>
+              <gloss><p xml:id='OTPSD63020P0'>The Territory of Louisiana was established on July 4, 1805. Admitted as the 18th state, Louisiana achieved statehood on April 30, 1812. (Britannica; Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2790'>
+<catDesc>Social Identifiers</catDesc>
+</category>
+</taxonomy>
+      </classDecl>
+    </encodingDesc>
+
+
+  <profileDesc>
+
+
+
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+  </profileDesc>
+    <xenoData>
+      <iiifMetadata>
+            <element source="imported">
+              <label>Collection</label>
+              <value>Ames Series 803</value>
+            </element>
+            <element source="imported">
+              <label>Contributors</label>
+              <value>Funding for this project provided by the National Historical Publications and Records Commission of the National Archives.</value>
+            </element>
+            <element source="imported">
+              <label>Coverage (time period)</label>
+              <value>1874</value>
+            </element>
+            <element source="imported">
+              <label>Creator</label>
+              <value>Davis, A. K. (Alexander Kelso), -1884</value>
+            </element>
+            <element source="imported">
+              <label>Date</label>
+              <value>1874-05-09</value>
+            </element>
+            <element source="imported">
+              <label>Description</label>
+              <value>From the Mississippi Department of Archives and History Governor Ames Collection. Letter from Lieutenant Governor A. K. Davis to Mississippi Governor Adelbert Ames, enclosing a requisition for rations as chairman of the relief committee.</value>
+            </element>
+            <element source="imported">
+              <label>Digital repository</label>
+              <value>Mississippi Digital Library.</value>
+            </element>
+            <element source="imported">
+              <label>Digital collection</label>
+              <value>Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Disclaimer</label>
+              <value>Use of materials from this collection beyond the exceptions provided for in the Fair Use and Educational Use clauses of the U.S. Copyright Law may violate federal law. Permission to publish or reproduce is required.</value>
+            </element>
+            <element source="imported">
+              <label>Format</label>
+              <value>Digital reproduction of a 8.0&quot; x 10.0&quot; 3-page document.</value>
+            </element>
+            <element source="imported">
+              <label>Geographic location</label>
+              <value>Jackson (Miss.)</value>
+            </element>
+            <element source="imported">
+              <label>Identifier</label>
+              <value>mdah_803-991-02-26</value>
+            </element>
+            <element source="imported">
+              <label>Language</label>
+              <value>English</value>
+            </element>
+            <element source="imported">
+              <label>Mississippi county</label>
+              <value>Hinds County (Miss.)</value>
+            </element>
+            <element source="imported">
+              <label>Notes</label>
+              <value>This item is part of the Civil War and Reconstruction Governors of Mississippi Project.; https://cwrgm.org/</value>
+            </element>
+            <element source="imported">
+              <label>Publisher</label>
+              <value>Mississippi Department of Archives and History. (electronic version); Mississippi Digital Library. (electronic version)</value>
+            </element>
+            <element source="imported">
+              <label>Record created by</label>
+              <value>McKenna Fussell; Britany Castilaw; Sarah West</value>
+            </element>
+            <element source="imported">
+              <label>Contributing institution</label>
+              <value>Item housed at Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Rights</label>
+              <value>NO COPYRIGHT - UNITED STATES; http://rightsstatements.org/vocab/NoC-US/1.0/</value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>Box 991, Folder 2</value>
+            </element>
+            <element source="imported">
+              <label>Subject</label>
+              <value>Ames, Adelbert, 1835-1933; Committees; Mississippi. Governor; Survival and emergency rations</value>
+            </element>
+            <element source="imported">
+              <label>Title</label>
+              <value>Letter from Lieutenant Governor A. K. Davis to Mississippi Governor Adelbert Ames; May 9, 1874</value>
+            </element>
+            <element source="imported">
+              <label>Resource type</label>
+              <value>Text</value>
+            </element>
+            <element source="imported">
+              <label>Repository</label>
+              <value></value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>&lt;span&gt;From: &lt;a href=&quot;https://cdm17313.contentdm.oclc.org/digital/collection/mdah/id/27360&quot;&gt;Letter from Lieutenant Governor A. K. Davis to Mississippi Governor Adelbert Ames; May 9, 1874&lt;/a&gt;&lt;/span&gt;</value>
+            </element>
+      </iiifMetadata>
+    </xenoData>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG20" who="U220769" when="2024-12-11T19:35:23Z" target="#P32899326">
+          Version 8 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG19" who="U2" when="2024-10-25T16:53:37Z" target="#P32899328">
+          Version 5 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG18" who="U2" when="2024-10-25T15:09:43Z" target="#P32899326">
+          Version 7 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG17" who="U32019810" when="2024-10-24T02:11:57Z" target="#P32899327">
+          Version 5 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG16" who="U32019810" when="2024-10-12T12:30:41Z" target="#P32899326">
+          Version 6 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG15" who="U32019810" when="2024-09-14T18:40:47Z" target="#P32899328">
+          Version 4 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG14" who="U220769" when="2023-09-02T18:44:10Z" target="#P32899326">
+          Version 5 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG13" who="U25091356" when="2023-04-07T21:50:41Z" target="#P32899328">
+          Version 3 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG12" who="U25091356" when="2023-04-07T21:50:09Z" target="#P32899327">
+          Version 4 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG11" who="U25091356" when="2023-04-07T21:49:15Z" target="#P32899326">
+          Version 4 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG10" who="U25091253" when="2023-03-20T01:57:18Z" target="#P32899327">
+          Version 3 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG9" who="U25091253" when="2023-03-20T01:34:08Z" target="#P32899328">
+          Version 2 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG8" who="U25091253" when="2023-03-20T01:32:12Z" target="#P32899327">
+          Version 2 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG7" who="U25091253" when="2023-03-20T01:31:59Z" target="#P32899326">
+          Version 3 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG6" who="U25091253" when="2023-03-19T22:39:23Z" target="#P32899326">
+          Version 2 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U231087" when="2023-01-18T00:05:33Z" target="#P32899328">
+          Version 1 of page "Page 3":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG4" who="U231087" when="2023-01-18T00:04:24Z" target="#P32899327">
+          Version 1 of page "Page 2":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG3" who="U231087" when="2023-01-18T00:02:51Z" target="#P32899326">
+          Version 1 of page "Page 1":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG2" who="U220769" when="2023-01-17T22:13:06Z" target="#P32899328">
+          Version 0 of page "Page 3":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG1" who="U220769" when="2023-01-17T22:13:00Z" target="#P32899327">
+          Version 0 of page "Page 2":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U220769" when="2023-01-17T22:12:54Z" target="#P32899326">
+          Version 0 of page "Page 1":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+        <pb xml:id="F32899326" n="1" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:27357/full/full/0/default.jpg"/>
+        <div xml:id="OTP32899326">
+        <fw type="pageNum">Page 1</fw>
+          <p corresp='TTP32899326P0' xml:id='OTP32899326P0'>[seal: Buckeye]
+</p>
+
+<p corresp='TTP32899326P1' xml:id='OTP32899326P1'>Office of <rs ref='#S32076240'>Lieutenant Governor</rs><lb/>
+<rs ref='#S51785'>Jackson</rs> Miss<lb/>
+<hi rend='underline'>May 9, 1874</hi>
+</p>
+
+<p corresp='TTP32899326P2' xml:id='OTP32899326P2'>To His Excellency <rs ref='#S52648'>Adelbert Ames</rs><lb/>
+Governor of Mississippi<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP32899326P3' xml:id='OTP32899326P3'>Sir
+</p>
+
+<p corresp='TTP32899326P4' xml:id='OTP32899326P4'>As requested by you to act as chairman of the <rs ref='#S25025465'>Relief Committee</rs>, I herewith have the honor to hand you a copy of the Requisition for rations, the same is based upon the letter of Col <rs ref='#S71918'>Tho<add place='above'>s</add> C. Sullivan</rs>, of <rs ref='#S63017'>New Orleans</rs>, who said the Government would allow the State rations at the rate of 5000 per day for seven days—
+</p>
+
+<p corresp='TTP32899326P5' xml:id='OTP32899326P5'>I have the honor to be<lb/>
+Your Excellency's obed<add place='above'>t</add> Serv<add place='above'>t</add>
+</p>
+
+<p corresp='TTP32899326P6' xml:id='OTP32899326P6'>A K Davis<lb/>
+Chairman of Relief Committee 
+</p>
+
+
+        </div>
+        <pb xml:id="F32899327" n="2" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:27358/full/full/0/default.jpg"/>
+        <div xml:id="OTP32899327">
+        <fw type="pageNum">Page 2</fw>
+          <p corresp='TTP32899327P0' xml:id='OTP32899327P0'>Attend for <rs ref='#S32067513'>Morgan</rs>
+</p>
+
+<p corresp='TTP32899327P1' xml:id='OTP32899327P1'>—A A
+</p>
+
+
+        </div>
+        <pb xml:id="F32899328" n="3" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:27359/full/full/0/default.jpg"/>
+        <div xml:id="OTP32899328">
+        <fw type="pageNum">Page 3</fw>
+          <p corresp='TTP32899328P0' xml:id='OTP32899328P0'><hr/><lb/>
+<b><rs ref='#S25026074'>EXECUTIVE OFFICE,<lb/>
+STATE OF MISSISSIPPI</rs>.</b><lb/>
+<hr/>
+</p>
+
+<p corresp='TTP32899328P1' xml:id='OTP32899328P1'><hi rend='italic'>From</hi> Lt Gov A. K. Davis<lb/>
+<hi rend='italic'>Address</hi>  Jackson Miss<add place='above'>i</add><lb/>
+<hi rend='italic'>Dated</hi> May 9<add place='above'>th</add> 1874<lb/>
+<hi rend='italic'>Received</hi> " " "<lb/>
+<hi rend='italic'>Answered</hi> [gap]<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP32899328P2' xml:id='OTP32899328P2'><b>SUBJECT:</b>
+</p>
+
+<p corresp='TTP32899328P3' xml:id='OTP32899328P3'>Requisition for Rations as "Chairman of Relief Committee."<lb/>
+<hr/>
+</p>
+
+<p corresp='TTP32899328P4' xml:id='OTP32899328P4'><b>ADELBERT AMES,</b><lb/>
+<hi rend='italic'>Governor.</hi>
+</p>
+
+<p corresp='TTP32899328P5' xml:id='OTP32899328P5'><rs ref='#S32077302'>FRED. BARRETT</rs>,<lb/>
+<hi rend='italic'><rs ref='#S95466'>Private Secretary</rs>.</hi><lb/>
+<hr/> 
+</p>
+
+
+        </div>
+  </body>
+</text>
+</TEI>

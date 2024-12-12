@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+xml:lang="EN"
+xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875</title>
+        <title type="desc"></title>
+      </title>
+      <author>
+        <persName></persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU220769">
+        <resp>Initial upload of this work&#39;s facsimile images and metadata to FromThePage for editing</resp>
+        <persName>Lindsey Peterson (CWRGM Co-Director)</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU215593">
+        <resp>Administrator of the Civil War &amp; Reconstruction Governors of Mississippi, Main Collection transcription project on FromThePage</resp>
+        <persName>Civil War and Reconstruction Governors of Mississippi</persName>
+      </respStmt>
+
+        <respStmt xml:id="U25091235">
+          <persName
+            >
+            Amanda Patrick
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2023-10-20T17:15:23Z">October 20, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U25091195">
+          <persName
+            >
+            Camp H. Stewart
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2023-12-11T23:58:51Z">December 11, 2023</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U231087">
+          <persName
+            >
+            DeeDee Baldwin
+            </persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2023-10-16T19:45:43Z">October 16, 2023</date>.
+            </resp>
+        </respStmt>
+
+
+
+    </editionStmt>
+
+    <publicationStmt>
+    <publisher>Dynamic TEI export from FromThePage (version 22.10)</publisher>
+      <availability>
+        <p></p>
+      </availability>
+      <date when="2024-12-12T16:25:05+00:00">December 12, 2024</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+            <collection>Civil War &amp; Reconstruction Governors of Mississippi, Main Collection</collection>
+        </msIdentifier>
+        <physDesc>
+          <p></p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName></placeName>
+          </origin>
+          <provenance></provenance>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S32115227">
+              <persName>Campbell, John A. (John Allen), 1835-1880</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+            <person xml:id="S32115228">
+              <persName>Brown, J. B. (Jason Brevoort), 1839-1898</persName>
+                <note type="categorization">
+                  Categories:
+                    <ab>
+                      <ptr ana="#category #leaf #root" target="#C2750">People</ptr>
+                    </ab>
+                </note>
+            </person>
+        </listPerson>
+
+    </sourceDesc>
+
+  </fileDesc>
+
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+<category xml:id='C32001127'>
+<catDesc>Businesses</catDesc>
+</category>
+<category xml:id='C2787'>
+<catDesc>Events</catDesc>
+<category xml:id='C32001687'>
+<catDesc>Social &amp; Cultural Events</catDesc>
+          <category xml:id='S32098384'>
+            <catDesc>
+              <term>Holidays and Observances--Thanksgiving Day</term>
+              <idno>https://en.wikipedia.org/wiki/Thanksgiving_(United_States)</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2787'>Events</ptr> -- <ptr ana='#category #leaf' target='#C32001687'>Social &amp; Cultural Events</ptr></ab>
+              </note>
+              <gloss><p xml:id='OTPSD32098384P0'>Celebrated since 1789, Thanksgiving became a federal holiday in the United States on June 28, 1870 and is celebrated annually on the fourth Thursday of the month of November. It originated as a day set aside for the giving of thanks for a bountiful harvest but also functions as a celebration of American nationalism. For instance, it is often celebrated with large gatherings centered around a meal consisting of foods indigenous to North America, such as turkey, potatoes, squash, and corn, among other foods. (Wikipedia) Throughout the American Civil War, both the Union and Confederacy celebrated days of thanksgiving at home and in the field. Its celebration was a vital component of Union and Confederate nationalism, and connected both region's to its colonial era history. Touted as a way to unify a divided country, President Abraham Lincoln issued a Thanksgiving Day Proclamation on October 3, 1863 that made it a federal holiday. (Wikipedia; "Proclamation, 1863," Gilder Lehrman Institute of American History)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C25000149'>
+<catDesc>Military Units</catDesc>
+</category>
+<category xml:id='C2788'>
+<catDesc>Occupations</catDesc>
+</category>
+<category xml:id='C2789'>
+<catDesc>Organizations</catDesc>
+<category xml:id='C32001145'>
+<catDesc>U.S. Federal Government</catDesc>
+          <category xml:id='S32078188'>
+            <catDesc>
+              <term>United States--Executive Department</term>
+              <idno>https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001145'>U.S. Federal Government</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>38.89778, -77.03639</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32078188P0'>Operating at the national level, the United States Executive Department consists of the President, the Vice President, and the Cabinet. The President functions as Commander in Chief, and is responsible for the appointment of members of the Cabinet and other federal agencies, and the enforcement of legislation approved by Congress. The duty of the Vice President is to assume the presidency if necessary. The Cabinet is composed of presidentially appointed heads of federal organizations who act as advisors to the President. ("The Executive Branch," The White House)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32078185'>
+            <catDesc>
+              <term>United States--Executive Department. Office of the President</term>
+              <idno>https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001145'>U.S. Federal Government</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>38.89778, -77.03639</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32078185P0'>Operating at the national level, the Office President of the United States is the head of the executive body and is responsible for assuming the role of the Commander in Chief, appointing members of the Cabinet and other federal agencies, and the enforcement of legislation approved by Congress. The first United States President was elected in 1789. ("The Executive Branch," The White House) 
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001144'>
+<catDesc>U.S. State Governments</catDesc>
+          <category xml:id='S32098421'>
+            <catDesc>
+              <term>Wyoming--Executive Department</term>
+              <idno>https://en.wikipedia.org/wiki/Wyoming#State_government</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001144'>U.S. State Governments</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>41.14028, -104.81972</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32098421P0'>Created in 1890, the executive branch of the State of Wyoming is headed by the Governor and also includes the Secretary of State, both of which are elected to serve a four-year term. The executive department also consists of the Wyoming State Treasurer, the Wyoming Attorney General, and the Wyoming Superintendent of Public Instruction. The primary duties of the executive branch of the State of Wyoming are to ensure the laws of the state are preserved, enact new legislation, and to command the militia. (Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+          <category xml:id='S32098424'>
+            <catDesc>
+              <term>Wyoming--Office of the Secretary of State</term>
+              <idno>https://en.wikipedia.org/wiki/Secretary_of_State_of_Wyoming</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2789'>Organizations</ptr> -- <ptr ana='#category #leaf' target='#C32001144'>U.S. State Governments</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>41.14028, -104.81972</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32098424P0'>Created in 1890, the Office of the Secretary of State of Wyoming is an elected position with a four-year term. The Secretary of State of Wyoming is tasked with overseeing the Administrative Services Division, the Business Division, the Executive Office, the Compliance Division, the Elections Division, and the Technology Division. (Wikipedia; "Duties of the Office of Secretary of State," Wyoming Secretary of State)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2750'>
+<catDesc>People</catDesc>
+</category>
+<category xml:id='C2751'>
+<catDesc>Places</catDesc>
+<category xml:id='C32001862'>
+<catDesc>Towns &amp; Cities</catDesc>
+          <category xml:id='S32098422'>
+            <catDesc>
+              <term>Wyoming--Laramie County. Cheyenne</term>
+              <idno>https://en.wikipedia.org/wiki/Cheyenne,_Wyoming</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001862'>Towns &amp; Cities</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>41.14, -104.82028</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32098422P0'>Located in Laramie County, Wyoming, Cheyenne was founded in 1867. (Wikipedia)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+<category xml:id='C32001860'>
+<catDesc>U.S. States</catDesc>
+          <category xml:id='S32022845'>
+            <catDesc>
+              <term>Wyoming</term>
+              <idno>https://www.britannica.com/place/Wyoming-state</idno>
+              <note type='categorization'>Categories:<ab><ptr ana='#category #root' target='#C2751'>Places</ptr> -- <ptr ana='#category #leaf' target='#C32001860'>U.S. States</ptr></ab>
+              </note>
+              <note type='geography'>
+                <geo>42.9957, -107.5512</geo>
+              </note>
+              <gloss><p xml:id='OTPSD32022845P0'>The Territory of Wyoming was established July 25, 1868. Admitted as the 44th state, Wyoming achieved statehood July 10, 1890. (Britannica)
+</p>
+
+</gloss>
+            </catDesc>
+          </category>
+</category>
+</category>
+<category xml:id='C2790'>
+<catDesc>Social Identifiers</catDesc>
+</category>
+</taxonomy>
+      </classDecl>
+    </encodingDesc>
+
+
+  <profileDesc>
+
+
+
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+  </profileDesc>
+    <xenoData>
+      <iiifMetadata>
+            <element source="imported">
+              <label>Collection</label>
+              <value>Ames Series 803</value>
+            </element>
+            <element source="imported">
+              <label>Color space</label>
+              <value>RGB</value>
+            </element>
+            <element source="imported">
+              <label>Contributors</label>
+              <value>Funding for this project provided by the National Historical Publications and Records Commission.</value>
+            </element>
+            <element source="imported">
+              <label>Coverage (time period)</label>
+              <value>1873</value>
+            </element>
+            <element source="imported">
+              <label>Creator</label>
+              <value>Campbell, John A. (John Allen), 1835-1880</value>
+            </element>
+            <element source="imported">
+              <label>Date</label>
+              <value>1873-11-04</value>
+            </element>
+            <element source="imported">
+              <label>Description</label>
+              <value>From the Mississippi Department of Archives and History Governor Ames Collection. Proclamation from Wyoming Territory Governor J. A. Campbell, proclaiming Thanksgiving.</value>
+            </element>
+            <element source="imported">
+              <label>Digital repository</label>
+              <value>Mississippi Digital Library.</value>
+            </element>
+            <element source="imported">
+              <label>Digital collection</label>
+              <value>Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Disclaimer</label>
+              <value>Use of materials from this collection beyond the exceptions provided for in the Fair Use and Educational Use clauses of the U.S. Copyright Law may violate federal law. Permission to publish or reproduce is required.</value>
+            </element>
+            <element source="imported">
+              <label>File extension</label>
+              <value>jpg</value>
+            </element>
+            <element source="imported">
+              <label>File name</label>
+              <value>mdah_803-998-01-24-001.jpg</value>
+            </element>
+            <element source="imported">
+              <label>File size</label>
+              <value>3494414 Bytes</value>
+            </element>
+            <element source="imported">
+              <label>Format</label>
+              <value>Digital reproduction of a 8.0&quot; x 10.0&quot; 1 page document.</value>
+            </element>
+            <element source="imported">
+              <label>Geographic location</label>
+              <value>Cheyenne (Wyo.)</value>
+            </element>
+            <element source="imported">
+              <label>Height</label>
+              <value>2041</value>
+            </element>
+            <element source="imported">
+              <label>Identifier</label>
+              <value>mdah_803-998-01-24</value>
+            </element>
+            <element source="imported">
+              <label>Language</label>
+              <value>English</value>
+            </element>
+            <element source="imported">
+              <label>Notes</label>
+              <value>This item is part of the Civil War and Reconstruction Governors of Mississippi Project.; https://cwrgm.org/</value>
+            </element>
+            <element source="imported">
+              <label>Publisher</label>
+              <value>Mississippi Department of Archives and History. (electronic version); Mississippi Digital Library. (electronic version)</value>
+            </element>
+            <element source="imported">
+              <label>Record created by</label>
+              <value>Dalton Wood; McKenna Fussell; Sarah West</value>
+            </element>
+            <element source="imported">
+              <label>Contributing institution</label>
+              <value>Item housed at Mississippi Department of Archives and History.</value>
+            </element>
+            <element source="imported">
+              <label>Rights</label>
+              <value>NO COPYRIGHT - UNITED STATES; http://rightsstatements.org/vocab/NoC-US/1.0/</value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>Box 998, Folder 1</value>
+            </element>
+            <element source="imported">
+              <label>Subject</label>
+              <value>Ames, Adelbert, 1835-1933; Campbell, John A. (John Allen), 1835-1880; Mississippi. Governor; Proclamations; Thanksgiving Day; Wyoming Territory. Governor</value>
+            </element>
+            <element source="imported">
+              <label>Title</label>
+              <value>Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1873</value>
+            </element>
+            <element source="imported">
+              <label>Resource type</label>
+              <value>Text</value>
+            </element>
+            <element source="imported">
+              <label>Width</label>
+              <value>1629</value>
+            </element>
+            <element source="imported">
+              <label>Repository</label>
+              <value></value>
+            </element>
+            <element source="imported">
+              <label>Source</label>
+              <value>&lt;span&gt;From: &lt;a href=&quot;https://cdm17313.contentdm.oclc.org/digital/collection/mdah/id/35887&quot;&gt;Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1873&lt;/a&gt;&lt;/span&gt;</value>
+            </element>
+      </iiifMetadata>
+    </xenoData>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG3" who="U25091195" when="2023-12-11T23:58:51Z" target="#P33680090">
+          Version 3 of page "Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG2" who="U25091235" when="2023-10-20T17:15:23Z" target="#P33680090">
+          Version 2 of page "Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG1" who="U231087" when="2023-10-16T19:45:43Z" target="#P33680090">
+          Version 1 of page "Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG0" who="U220769" when="2023-09-25T23:13:26Z" target="#P33680090">
+          Version 0 of page "Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+        <pb xml:id="F33680090" n="1" facs="https://cdm17313.contentdm.oclc.org/iiif/2/mdah:35887/full/full/0/default.jpg"/>
+        <div xml:id="OTP33680090">
+        <fw type="pageNum">Proclamation from Wyoming Territory Governor J. A. Campbell; November 4, 1875</fw>
+          <p corresp='TTP33680090P0' xml:id='OTP33680090P0'>[note] Nov. 4, 1875 [/note]
+</p>
+
+<p corresp='TTP33680090P1' xml:id='OTP33680090P1'><b>Proclamation of <rs ref='#S32098384'>Thanksgiving</rs>.</b><lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33680090P2' xml:id='OTP33680090P2'><b>BY <rs ref='#S32115227'>J. A. CAMPBELL</rs> <rs ref='#S32098421'>GOVERNOR</rs> OF THE TERRITORY OF WYOMING.</b><lb/>
+<hr/>
+</p>
+
+<p corresp='TTP33680090P3' xml:id='OTP33680090P3'><hi rend='italic'>THE <rs ref='#S32078185'>PRESIDENT OF THE UNITED STATES</rs> HAVING DESIGNATED</hi>
+</p>
+
+<p corresp='TTP33680090P4' xml:id='OTP33680090P4'>Thursday, the 27th day of November, 1873,
+</p>
+
+<p corresp='TTP33680090P5' xml:id='OTP33680090P5'><hi rend='italic'>As a day of Thanksgiving and Praise, I recommend the faithful observance of the day by all the people of Wyoming, in accordance with the usual and time-honored custom.</hi>
+</p>
+
+<p corresp='TTP33680090P6' xml:id='OTP33680090P6'><b>"GIVE THANKS UNTO THE LORD, FOR HE IS GOOD, FOR HIS MERCY ENDURETH FOREVER."</b>
+</p>
+
+<p corresp='TTP33680090P7' xml:id='OTP33680090P7'><hi rend='italic'>IN TESTIMONY WHEREOF, I have hereunto set my hand, and caused the Great Seal of the Territory to be affixed. Done at <rs ref='#S32098422'>Cheyenne</rs>, this, Fourth day of November, in the year of our Lord one thousand eight hundred and seventy-three.</hi>
+</p>
+
+<p corresp='TTP33680090P8' xml:id='OTP33680090P8'><b>J. A. CAMPBELL.</b>
+</p>
+
+<p corresp='TTP33680090P9' xml:id='OTP33680090P9'>[seal] * GREAT SEAL * TERRITORY OF WYOMING [/seal]
+</p>
+
+<p corresp='TTP33680090P10' xml:id='OTP33680090P10'><b>By the Governor:</b>
+</p>
+
+<p corresp='TTP33680090P11' xml:id='OTP33680090P11'><rs ref='#S32115228'>JASON B. BROWN</rs>,<lb/>
+<hi rend='italic'><rs ref='#S32098424'>Secretary of Territory</rs>.</hi>
+</p>
+
+
+            <note resp="#U231087">Document is dated 1873, not 1875</note>
+        </div>
+  </body>
+</text>
+</TEI>
